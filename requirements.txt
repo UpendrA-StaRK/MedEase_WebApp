@@ -1,5 +1,6 @@
 streamlit==1.28.0
 keras-ocr==0.9.3
+easyocr
 numpy==1.26.2
 python-dotenv==1.0.0
 together
