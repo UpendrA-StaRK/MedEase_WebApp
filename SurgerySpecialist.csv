@@ -1,0 +1,564 @@
+Medical Intervention,SURGERY TYPE,Name,AVAILABLE DOCTORS,QUALIFICATIONS,RATINGS,SATISFACTION
+Exosome Stem Cell Therapy,Aesthetic Physician,Dr. Anum Arshad,1,"MBBS, Certified ( Cosmeceuticals & Skin Peel), Certified (Medial Microneedling &",0,80%
+Roux-en-Y Gastric Bypass (RYGB),Bariatric / Weight Loss Surgeon,Dr. Mushtaq Ahmad,1,"MBBS, FCPS (General Surgery)",2,67%
+Angiography,Cardiologist,Dr. Gul Shan Ahmad,1,"MBBS, FCPS, Fellow Ship in interventional Cardiology ",48,100%
+Angioplasty,Cardiologist,Dr. Gul Shan Ahmad,1,"MBBS, FCPS, Fellow Ship in interventional Cardiology ",48,100%
+Hypospadias Surgery,Cosmetic Surgeon,Asst. Prof. Dr. Kamal Uddin Khan,2,"MBBS, FCPS (Plastic Surgery)",275,93%
+Subcision Nanofat,Cosmetic Surgeon,Asst. Prof. Dr. Kamal Uddin Khan,2,"MBBS, FCPS (Plastic Surgery)",275,93%
+Buccal Fat Removal,Cosmetic Surgeon,Asst. Prof. Dr. Kamal Uddin Khan,2,"MBBS, FCPS (Plastic Surgery)",275,93%
+Body Sculpting With Liposuction,Cosmetic Surgeon,Asst. Prof. Dr. Kamal Uddin Khan,2,"MBBS, FCPS (Plastic Surgery)",275,93%
+Korean Botox,Cosmetic Surgeon,Asst. Prof. Dr. Kamal Uddin Khan,2,"MBBS, FCPS (Plastic Surgery)",275,93%
+Congenital Melanocytic Nevi (CMN),Cosmetic Surgeon,Asst. Prof. Dr. Kamal Uddin Khan,2,"MBBS, FCPS (Plastic Surgery)",275,93%
+American Botox,Cosmetic Surgeon,Asst. Prof. Dr. Kamal Uddin Khan,2,"MBBS, FCPS (Plastic Surgery)",275,93%
+Crown Porcelain,Dentist,Dr. Amara Latif Bajwa,2,"BDS (KU) , C Implant (Germany), Dip. MID (Australia)",210,96%
+Anterior Teeth Veneers Zirconia,Dentist,Dr. Amara Latif Bajwa,3,"BDS (KU) , C Implant (Germany), Dip. MID (Australia)",210,96%
+Wisdom Tooth Extraction Surgical,Dentist,Dr. Amara Latif Bajwa,3,"BDS (KU) , C Implant (Germany), Dip. MID (Australia)",210,96%
+Amalgam Filling,Dentist,Dr. Amara Latif Bajwa,2,"BDS (KU) , C Implant (Germany), Dip. MID (Australia)",210,96%
+Gingivectomy,Dentist,Dr. Muhammad Siddique Arain,2,"BDS, RDS, OMSB (Muscat Oman)",50,98%
+Simple Composite,Dentist,Dr. Amara Latif Bajwa,3,"BDS (KU) , C Implant (Germany), Dip. MID (Australia)",210,96%
+Composite Filling 2 Walls,Dentist,Dr. Amara Latif Bajwa,2,"BDS (KU) , C Implant (Germany), Dip. MID (Australia)",210,96%
+Composite Filling 3 Walls,Dentist,Dr. Amara Latif Bajwa,1,"BDS (KU) , C Implant (Germany), Dip. MID (Australia)",210,96%
+Large Composite Filling 4 Walls,Dentist,Dr. Amara Latif Bajwa,1,"BDS (KU) , C Implant (Germany), Dip. MID (Australia)",210,96%
+Esthetic Composite Buildups,Dentist,Dr. Amara Latif Bajwa,2,"BDS (KU) , C Implant (Germany), Dip. MID (Australia)",210,96%
+Porcelain Veneers,Dentist,Dr. Amara Latif Bajwa,1,"BDS (KU) , C Implant (Germany), Dip. MID (Australia)",210,96%
+Premium Braces Orthodontics,Dentist,Dr. Asdaq Asim,3,"BDS, FCPS, C-Implants",54,98%
+Operculectomy,Dentist,Dr. Muhammad Siddique Arain,1,"BDS, RDS, OMSB (Muscat Oman)",50,98%
+Pulpotomy,Dentist,Dr. Aimen Zia,1,"BDS , RDS ",332,99%
+GIC Filling,Dentist,Dr. Muhammad Shoaib Ahmed,2,"BDS (Gold Medalist) FCPS Res. (Orthodontics), RDS",162,99%
+Laser Filling,Dentist,Dr. Asdaq Asim,3,"BDS, FCPS, C-Implants",54,98%
+Ultrasonic Scaling,Dentist,Dr. Asdaq Asim,1,"BDS, FCPS, C-Implants",54,98%
+Zirconia Crown,Dentist,Dr. Amara Latif Bajwa,10,"BDS (KU) , C Implant (Germany), Dip. MID (Australia)",210,96%
+Surgical Extraction,Dentist,Dr. Hira Nayab,7,"BDS, RDS",68,91%
+Aligners,Dentist,Dr. Junaid Altaf,7,"BDS, FCPS (Prosthodontics)",6,100%
+Veneers Composite,Dentist,Dr. Junaid Altaf,3,"BDS, FCPS (Prosthodontics)",6,100%
+Veneers Emax,Dentist,Dr. Junaid Altaf,5,"BDS, FCPS (Prosthodontics)",6,100%
+Root Canal Treatment,Dentist,Dr. Amara Latif Bajwa,14,"BDS (KU) , C Implant (Germany), Dip. MID (Australia)",210,96%
+Simple Wisdom Tooth Extraction,Dentist,Dr. Amara Latif Bajwa,1,"BDS (KU) , C Implant (Germany), Dip. MID (Australia)",210,96%
+RCT Conventional,Dentist,Dr. Asdaq Asim,3,"BDS, FCPS, C-Implants",54,98%
+Fluoride Treatment,Dentist,Dr. Muhammad Siddique Arain,2,"BDS, RDS, OMSB (Muscat Oman)",50,98%
+RCT Multiple Roots,Dentist,Dr. Amara Latif Bajwa,5,"BDS (KU) , C Implant (Germany), Dip. MID (Australia)",210,96%
+Extraction Simple,Dentist,Dr. Hira Anees,7,"BDS (Gold Medalist), RDS, FCPS (Orthodontics)",91,97%
+Zirconium/Emax Crowns,Dentist,Dr. Ayesha Khan,2,"BDS , RDS , C-Endo, C-Ortho , C -Implants ",572,100%
+Zirconium/Emax Veneers,Dentist,Dr. Ayesha Khan,1,"BDS , RDS , C-Endo, C-Ortho , C -Implants ",572,100%
+Scaling/Root Debridement/Session,Dentist,Dr. Ayesha Khan,1,"BDS , RDS , C-Endo, C-Ortho , C -Implants ",572,100%
+Orthognathic Surgeries,Dentist,Dr. Syeda Amna Sarfaraz,1,"BDS, Certified Aesthetic Physician, Diploma In Aesthetic Medicine",4,100%
+Non-Surgical Extraction,Dentist,Dr. Asifa Iqbal,1,"BDS, M.Phil (Oral Pathology & Microbiology), FCPS (Oral & Maxillofacial Surgery)",832,97%
+Surgical Extraction (Wisdom Tooth Or Any Other),Dentist,Dr. Asdaq Asim,1,"BDS, FCPS, C-Implants",54,98%
+Lower Wisdom Tooth Extraction,Dentist,Dr. Ayesha Khan,1,"BDS , RDS , C-Endo, C-Ortho , C -Implants ",572,100%
+RCT Single Root,Dentist,Dr. Asifa Iqbal,1,"BDS, M.Phil (Oral Pathology & Microbiology), FCPS (Oral & Maxillofacial Surgery)",832,97%
+Crown/Bridge Zirconium Per Unit,Dentist,Dr. Umer Arshad,1,"BDS , MPH, MPhil (PH) , FICD (USA)",278,98%
+Flexible Partial Denture,Dentist,Dr. Asifa Iqbal,3,"BDS, M.Phil (Oral Pathology & Microbiology), FCPS (Oral & Maxillofacial Surgery)",832,97%
+Complete Denture Upper And Lower,Dentist,Dr. Asifa Iqbal,2,"BDS, M.Phil (Oral Pathology & Microbiology), FCPS (Oral & Maxillofacial Surgery)",832,97%
+Braces,Dentist,Dr. Asdaq Asim,5,"BDS, FCPS, C-Implants",54,98%
+Wisdom Tooth Extraction,Dentist,Dr. Junaid Altaf,2,"BDS, FCPS (Prosthodontics)",6,100%
+PFM Crown,Dentist,Dr. Hira Nayab,6,"BDS, RDS",68,91%
+Crown/Bridge PFM Per Unit,Dentist,Dr. Asifa Iqbal,2,"BDS, M.Phil (Oral Pathology & Microbiology), FCPS (Oral & Maxillofacial Surgery)",832,97%
+Pit And Fissure Sealant,Dentist,Dr. Muhammad Siddique Arain,1,"BDS, RDS, OMSB (Muscat Oman)",50,98%
+Gingivectomy Per Quadrant,Dentist,Dr. Ayesha Khan,1,"BDS , RDS , C-Endo, C-Ortho , C -Implants ",572,100%
+Dental Implants,Dentist,Dr. Junaid Altaf,18,"BDS, FCPS (Prosthodontics)",6,100%
+Neurectomy For Trigeminal Neuralgia,Dentist,Dr. Muhammad Siddique Arain,1,"BDS, RDS, OMSB (Muscat Oman)",50,98%
+Dental X-Ray,Dentist,Dr. Muhammad Siddique Arain,2,"BDS, RDS, OMSB (Muscat Oman)",50,98%
+Dressing Of Tooth,Dentist,Dr. Muhammad Siddique Arain,1,"BDS, RDS, OMSB (Muscat Oman)",50,98%
+Light Care Composite Filling,Dentist,Dr. Muhammad Siddique Arain,1,"BDS, RDS, OMSB (Muscat Oman)",50,98%
+Silver Amalgam Filling,Dentist,Dr. Muhammad Siddique Arain,1,"BDS, RDS, OMSB (Muscat Oman)",50,98%
+Fixed Braces Conventional,Dentist,Dr. Muhammad Siddique Arain,3,"BDS, RDS, OMSB (Muscat Oman)",50,98%
+FPD Crown And Porcelain Bridges,Dentist,Dr. Muhammad Siddique Arain,2,"BDS, RDS, OMSB (Muscat Oman)",50,98%
+Invisalign,Dentist,Dr. Muhammad Siddique Arain,1,"BDS, RDS, OMSB (Muscat Oman)",50,98%
+Surgical Tooth Extraction,Dentist,Dr. Hira Nayab,9,"BDS, RDS",68,91%
+Scaling & Polishing ,Dentist,Dr. Hira Nayab,18,"BDS, RDS",68,91%
+Removable Partial Denture Therapy,Dentist,Dr. Asifa Iqbal,3,"BDS, M.Phil (Oral Pathology & Microbiology), FCPS (Oral & Maxillofacial Surgery)",832,97%
+Simple Tooth Extraction,Dentist,Dr. Ayesha Khan,9,"BDS , RDS , C-Endo, C-Ortho , C -Implants ",572,100%
+Crown & Bridge,Dentist,Dr. Mohammad Ibrahim,6,"BDS, Implantology From Korea, Fellowship In Laser Dentistry (PALD),",400,99%
+Tooth Filling,Dentist,Dr. Asifa Iqbal,14,"BDS, M.Phil (Oral Pathology & Microbiology), FCPS (Oral & Maxillofacial Surgery)",832,97%
+Retainer,Dentist,Dr. Muhammad Siddique Arain,1,"BDS, RDS, OMSB (Muscat Oman)",50,98%
+Complete Denture,Dentist,Dr. Muhammad Siddique Arain,8,"BDS, RDS, OMSB (Muscat Oman)",50,98%
+Gum Grafting,Dentist,Dr. Zeeshan Faiz,1,"BDS, PG Clinical Dentistry, Implants Residency, MSC Implantology",6,100%
+Flap Surgery,Dentist,Assoc. Prof. Dr. Muhammad Haseeb,1,"BDS, MCPS (Periodontology), MDS (Periodontology), M Perio ",0,-
+Baby Tooth RCT,Dentist,Dr. Nuzhat Tauqeer,1,"BDS , Certified Implantologist (UK) , Certified Orthodontist (UK).",57,98%
+Baby Teeth Filling ,Dentist,Dr. Nuzhat Tauqeer,1,"BDS , Certified Implantologist (UK) , Certified Orthodontist (UK).",57,98%
+"Hydrafacial For Deep Cleansing, Exfoliation, And Hydration",Dermatologist,Dr. Malik Aftab Afzal,3,"MD , Diploma (Dermatology), Master of Science in Public Health",652,97%
+Cheek Augmentation,Dermatologist,Dr. Fawad Hussain,3,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Jawline Contouring,Dermatologist,Dr. Fawad Hussain,1,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Non-surgical Nose Job,Dermatologist,Dr. Fawad Hussain,3,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Hand Rejuvenation,Dermatologist,Dr. Aqsa Zubair Awan,2,"MBBS, FCPS (Dermatology)",200,98%
+Platelet-rich Fibrin (PRF) Treatment,Dermatologist,Dr. Ghulam Mujtaba,2,"MBBS, FCPS (Dermatology)","2,338",95%
+Chemical Eyebrow Lift,Dermatologist,Dr. Fawad Hussain,2,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Chemical Nose Lift,Dermatologist,Dr. Fawad Hussain,1,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Double Chin Reduction,Dermatologist,Dr. Fawad Hussain,4,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Cellulite Reduction,Dermatologist,Dr. Fawad Hussain,1,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Fat Freezing (cryolipolysis),Dermatologist,Dr. Fawad Hussain,1,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Ultrasound Fat Reduction,Dermatologist,Dr. Fawad Hussain,1,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Co2 Laser For Acne Scars And Pigmentation,Dermatologist,Asst. Prof. Dr. Sana Younas,1,-,"1,033",98%
+Intradermal Microdermabrasion For Skin Exfoliation And Rejuvenation,Dermatologist,Dr. Qurat Ul Ain Sajida,1,"MBBS, MCPS (Dermatology) ","1,268",95%
+Soprano Ice Laser Hair Removal,Dermatologist,Dr. Fawad Hussain,2,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Microneedling For Skin Rejuvenation And Acne Scars,Dermatologist,Dr. Huma Naveed,6," MBBS , Board Certified Aesthetic Physician",18,100%
+PRP (platelet-rich Plasma) For Face And Scalp,Dermatologist,Dr. Aqsa Zubair Awan,2,"MBBS, FCPS (Dermatology)",200,98%
+Carbon Facial For Deep Cleansing And Blackhead Removal,Dermatologist,Dr. Fawad Hussain,3,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Dermal Fillers For Volume Loss And Fine Lines,Dermatologist,Dr. Fawad Hussain,3,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Photofacial For Skin Rejuvenation And Pigmentation,Dermatologist,Dr. Fawad Hussain,4,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+PRP (platelet-rich Plasma) For Face And Scalp,Dermatologist,Dr. Aqsa Zubair Awan,2,"MBBS, FCPS (Dermatology)",200,98%
+Thread Lifts For Skin Lifting,Dermatologist,Dr. Fawad Hussain,9,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Botox Injections For Wrinkles And Fine Lines,Dermatologist,Dr. Huma Naveed,1," MBBS , Board Certified Aesthetic Physician",18,100%
+Dermal Fillers For Volume Loss And Fine Lines,Dermatologist,Dr. Fawad Hussain,3,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Laser Skin Resurfacing For Facial Rejuvenation And Pigmentation,Dermatologist,Dr. Fawad Hussain,1,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Mesotherapy For Skin Rejuvenation And Hair Loss,Dermatologist,Dr. Farhana Nazir,1,"MBBS, MCPS (Dermatology)",13,100%
+HIFU (High-Intensity Focused Ultrasound) For Skin Tightening And Lifting,Dermatologist,Asst. Prof. Dr. Sana Younas,2,-,"1,033",98%
+Thread Lifts For Skin Lifting,Dermatologist,Dr. Fawad Hussain,9,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+HIFU (High-Intensity Focused Ultrasound) For Skin Tightening And Lifting,Dermatologist,Asst. Prof. Dr. Sana Younas,2,-,"1,033",98%
+Radiofrequency Skin Tightening,Dermatologist,Dr. Fawad Hussain,1,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Body Sculpting With Liposuction,Dermatologist,Dr. Fawad Hussain,1,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Mommy Makeover Surgery,Dermatologist,Dr. Fawad Hussain,1,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Brazilian Butt Lift,Dermatologist,Dr. Fawad Hussain,1,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Dermal Fillers,Dermatologist,Dr. Umer Mushtaq,13,"MBBS, FCPS (Dermatology), CAAAM (USA)","4,592",97%
+Microneedling For Skin Rejuvenation And Acne Scars,Dermatologist,Dr. Malik Aftab Afzal,5,"MD , Diploma (Dermatology), Master of Science in Public Health",652,97%
+Chemical Peels For Skin Exfoliation And Acne Treatment,Dermatologist,Dr. Aqsa Zubair Awan,2,"MBBS, FCPS (Dermatology)",200,98%
+Thread Lifts For Skin Lifting,Dermatologist,Dr. Ghulam Mujtaba,3,"MBBS, FCPS (Dermatology)","2,338",95%
+Botox Injections For Wrinkles And Fine Lines,Dermatologist,Dr. Farhana Nazir,1,"MBBS, MCPS (Dermatology)",13,100%
+Keloid Removal Surgery.,Dermatologist,Dr. Fawad Hussain,1,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Cyst Removal Surgery,Dermatologist,Dr. Fawad Hussain,1,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Skin Tag Removal Surgery,Dermatologist,Dr. Fawad Hussain,1,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Mole Removal Surgery,Dermatologist,Dr. Fawad Hussain,1,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Cellulite Treatment Surgery,Dermatologist,Dr. Fawad Hussain,1,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Vein Treatment Surgery,Dermatologist,Dr. Fawad Hussain,1,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Dermal Fillers,Dermatologist,Dr. Farhana Nazir,1,"MBBS, MCPS (Dermatology)",13,100%
+Skin Graft Surgery,Dermatologist,Dr. Fawad Hussain,1,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Dermal Fillers,Dermatologist,Dr. Farhana Nazir,1,"MBBS, MCPS (Dermatology)",13,100%
+Liposonix For Non-invasive Fat Reduction,Dermatologist,Dr. Malik Aftab Afzal,3,"MD , Diploma (Dermatology), Master of Science in Public Health",652,97%
+Tattoo Removal Surgery,Dermatologist,Dr. Fawad Hussain,3,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Hair Transplant Surgery,Dermatologist,Dr. Fawad Hussain,7,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Liposuction,Dermatologist,Dr. Fawad Hussain,5,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Electrodesiccation And Curettage,Dermatologist,Dr. Fawad Hussain,1,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Micrographic Surgery,Dermatologist,Dr. Fawad Hussain,1,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Laser Surgery,Dermatologist,Dr. Fawad Hussain,1,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Excisional Surgery,Dermatologist,Dr. Fawad Hussain,1,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Mohs Surgery,Dermatologist,Dr. Fawad Hussain,1,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Butt Lift Surgery (gluteoplasty),Dermatologist,Dr. Fawad Hussain,1,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Thigh Lift,Dermatologist,Dr. Fawad Hussain,1,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Arm Lift (brachioplasty),Dermatologist,Dr. Fawad Hussain,2,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Breast Reduction,Dermatologist,Dr. Fawad Hussain,5,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Breast Lift,Dermatologist,Dr. Fawad Hussain,1,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Breast Augmentation,Dermatologist,Dr. Fawad Hussain,2,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Tummy Tuck (abdominoplasty),Dermatologist,Dr. Fawad Hussain,3,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Scar Revision Surgery,Dermatologist,Dr. Fawad Hussain,3,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+HIFU (High-Intensity Focused Ultrasound) For Skin Tightening And Lifting,Dermatologist,Dr. Aamina Iqbal,1,"MBBS, FCPS",150,96%
+Botox Injections For Wrinkles And Fine Lines,Dermatologist,Dr. Huma Naveed,1," MBBS , Board Certified Aesthetic Physician",18,100%
+Aquagold Facial,Dermatologist,Asst. Prof. Dr. Sana Younas,1,-,"1,033",98%
+PRP Hair Treatment,Dermatologist,Dr. Umer Mushtaq,12,"MBBS, FCPS (Dermatology), CAAAM (USA)","4,592",97%
+Laser Hair Removal,Dermatologist,Dr. Aamina Iqbal,4,"MBBS, FCPS",150,96%
+Mesotherapy,Dermatologist,Dr. Umer Mushtaq,9,"MBBS, FCPS (Dermatology), CAAAM (USA)","4,592",97%
+Dermabrasion,Dermatologist,Dr. Fawad Hussain,1,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Electrocautery,Dermatologist,Dr. Ghulam Mujtaba,2,"MBBS, FCPS (Dermatology)","2,338",95%
+Dermabrasion,Dermatologist,Dr. Fawad Hussain,1,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Electrocautery,Dermatologist,Dr. Ghulam Mujtaba,2,"MBBS, FCPS (Dermatology)","2,338",95%
+Dermabrasion,Dermatologist,Dr. Fawad Hussain,1,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Electrocautery,Dermatologist,Dr. Ghulam Mujtaba,2,"MBBS, FCPS (Dermatology)","2,338",95%
+Chemical Peels,Dermatologist,Dr. Fawad Hussain,6,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Q-Switched Laser,Dermatologist,Dr. Ghulam Mujtaba,1,"MBBS, FCPS (Dermatology)","2,338",95%
+Cryotherapy,Dermatologist,Dr. Ghulam Mujtaba,1,"MBBS, FCPS (Dermatology)","2,338",95%
+Electrocautery,Dermatologist,Dr. Ghulam Mujtaba,2,"MBBS, FCPS (Dermatology)","2,338",95%
+Chemical Peels,Dermatologist,Dr. Fawad Hussain,6,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Cryotherapy,Dermatologist,Dr. Ghulam Mujtaba,1,"MBBS, FCPS (Dermatology)","2,338",95%
+Dermabrasion,Dermatologist,Dr. Fawad Hussain,1,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Electrocautery,Dermatologist,Dr. Ghulam Mujtaba,2,"MBBS, FCPS (Dermatology)","2,338",95%
+Chemical Peels,Dermatologist,Dr. Fawad Hussain,6,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Cryotherapy,Dermatologist,Dr. Ghulam Mujtaba,1,"MBBS, FCPS (Dermatology)","2,338",95%
+Dermabrasion,Dermatologist,Dr. Fawad Hussain,1,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+LED Light Therapy,Dermatologist,Dr. Farhana Nazir,1,"MBBS, MCPS (Dermatology)",13,100%
+Electrocautery,Dermatologist,Dr. Ghulam Mujtaba,2,"MBBS, FCPS (Dermatology)","2,338",95%
+Dermabrasion,Dermatologist,Dr. Fawad Hussain,1,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+PRGF Skin Treatment,Dermatologist,Dr. Ghulam Mujtaba,1,"MBBS, FCPS (Dermatology)","2,338",95%
+"Hydrafacial For Deep Cleansing, Exfoliation, And Hydration",Dermatologist,Dr. Huma Naveed,9," MBBS , Board Certified Aesthetic Physician",18,100%
+Electrolysis Hair Removal ,Dermatologist,Dr. Ghulam Mujtaba,1,"MBBS, FCPS (Dermatology)","2,338",95%
+Half Arms Laser,Dermatologist,Asst. Prof. Dr. Sana Younas,3,-,"1,033",98%
+Full Legs Laser,Dermatologist,Asst. Prof. Dr. Sana Younas,3,-,"1,033",98%
+Full Face Laser,Dermatologist,Asst. Prof. Dr. Sana Younas,6,-,"1,033",98%
+Under Arms Laser,Dermatologist,Asst. Prof. Dr. Sana Younas,3,-,"1,033",98%
+Micro Needling,Dermatologist,Asst. Prof. Dr. Sana Younas,9,-,"1,033",98%
+"Corns, Calluses & Warts Removal",Dermatologist,Dr. Qurat Ul Ain Sajida,1,"MBBS, MCPS (Dermatology) ","1,268",95%
+Cryosurgery,Dermatologist,Dr. Fawad Hussain,1,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Full Back Body Laser,Dermatologist,Asst. Prof. Dr. Sana Younas,4,-,"1,033",98%
+PDO Thread Lift Procedure,Dermatologist,Dr. Ghulam Mujtaba,5,"MBBS, FCPS (Dermatology)","2,338",95%
+HIFU Chin,Dermatologist,Asst. Prof. Dr. Sana Younas,4,-,"1,033",98%
+Photodynamic Therapy,Dermatologist,Dr. Fawad Hussain,1,"MBBS, Diplomate in Dermatology and Dermatosurgery (Thailand), Member College Of",524,99%
+Full Font Body Laser,Dermatologist,Asst. Prof. Dr. Sana Younas,2,-,"1,033",98%
+Thyroidectomy (Total),Ent Specialist,Dr. Tarique Ali Sheikh,2,"MBBS, FCPS",320,98%
+Septoplasty With Turbinate Reduction,Ent Specialist,Prof. Dr. R Brigadier Amer Sabih Hydri,1,"MBBS , PGDLO , MCPS , FCPS",608,97%
+Ear Tubes With Adenoidectomy,Ent Specialist,Prof. Dr. R Brigadier Amer Sabih Hydri,1,"MBBS , PGDLO , MCPS , FCPS",608,97%
+Tonsillectomy With Adenoidectomy (T&a),Ent Specialist,Prof. Dr. R Brigadier Amer Sabih Hydri,1,"MBBS , PGDLO , MCPS , FCPS",608,97%
+Nasal Fracture Reduction (Closed),Ent Specialist,Prof. Dr. R Brigadier Amer Sabih Hydri,1,"MBBS , PGDLO , MCPS , FCPS",608,97%
+Rhinoplasty,Ent Specialist,Dr. Tarique Ali Sheikh,3,"MBBS, FCPS",320,98%
+Vocal Cord Surgery,Ent Specialist,Prof. Dr. R Brigadier Amer Sabih Hydri,1,"MBBS , PGDLO , MCPS , FCPS",608,97%
+Thyroplasty,Ent Specialist,Prof. Dr. R Brigadier Amer Sabih Hydri,1,"MBBS , PGDLO , MCPS , FCPS",608,97%
+Phono Surgery,Ent Specialist,Prof. Dr. R Brigadier Amer Sabih Hydri,1,"MBBS , PGDLO , MCPS , FCPS",608,97%
+Turbinoplasty,Ent Specialist,Dr. Tarique Ali Sheikh,2,"MBBS, FCPS",320,98%
+Tonsillectomy,Ent Surgeon,Asst. Prof. Dr. Bakht Aziz,4,"BSc, MBBS, FCPS, CMT (UK)",616,96%
+Adenoidectomy,Ent Surgeon,Asst. Prof. Dr. Bakht Aziz,5,"BSc, MBBS, FCPS, CMT (UK)",616,96%
+Submandibular Surgery,Ent Surgeon,Asst. Prof. Dr. Bakht Aziz,1,"BSc, MBBS, FCPS, CMT (UK)",616,96%
+Nasal Polypectomy,Ent Surgeon,Dr. Noor Sheikh,1,"MBBS, DLO, DHMHC",94,99%
+Nasal Polypectomy,Ent Surgeon,Dr. Noor Sheikh,1,"MBBS, DLO, DHMHC",94,99%
+"Ear Tubes (Tympanostomy, Bmt)",Ent Surgeon,Asst. Prof. Dr. Bakht Aziz,1,"BSc, MBBS, FCPS, CMT (UK)",616,96%
+Nasal Polypectomy,Ent Surgeon,Dr. Noor Sheikh,1,"MBBS, DLO, DHMHC",94,99%
+Nasal Polypectomy,Ent Surgeon,Dr. Noor Sheikh,1,"MBBS, DLO, DHMHC",94,99%
+Nasal Polypectomy,Ent Surgeon,Dr. Noor Sheikh,1,"MBBS, DLO, DHMHC",94,99%
+Thyroid Lobectomy,Ent Surgeon,Asst. Prof. Dr. Munazza Saeed,1,"MBBS, FCPS, DLO",263,98%
+Submucuous Diathermy (SMD) ,Ent Surgeon,Dr. Noor Sheikh,1,"MBBS, DLO, DHMHC",94,99%
+Fb Throat Removal,Ent Surgeon,Dr. Noor Sheikh,1,"MBBS, DLO, DHMHC",94,99%
+Epistemology Of Otolaryngology Head & Neck Surgery,Ent Surgeon,Dr. Noor Sheikh,1,"MBBS, DLO, DHMHC",94,99%
+Insertion Of Grommets,Ent Surgeon,Asst. Prof. Dr. Munazza Saeed,1,"MBBS, FCPS, DLO",263,98%
+Nasal Polypectomy,Ent Surgeon,Dr. Noor Sheikh,1,"MBBS, DLO, DHMHC",94,99%
+Myringoplasty,Ent Surgeon,Asst. Prof. Dr. Bakht Aziz,3,"BSc, MBBS, FCPS, CMT (UK)",616,96%
+Tympanomastoidectomy,Ent Surgeon,Asst. Prof. Dr. Munazza Saeed,1,"MBBS, FCPS, DLO",263,98%
+Parotidectomy,Ent Surgeon,Asst. Prof. Dr. Bakht Aziz,1,"BSc, MBBS, FCPS, CMT (UK)",616,96%
+Septoplasty,Ent Surgeon,Asst. Prof. Dr. Bakht Aziz,4,"BSc, MBBS, FCPS, CMT (UK)",616,96%
+Fb Nose Removal,Ent Surgeon,Dr. Noor Sheikh,1,"MBBS, DLO, DHMHC",94,99%
+All Multifocal Surgeries,Eye Specialist,Dr. Waqar Ahmad Shakoor,1,"MBBS, FCPS (Ophthalmology), Diploma In Ophthalmology",24,100%
+All Monofocal Surgeries,Eye Specialist,Dr. Waqar Ahmad Shakoor,1,"MBBS, FCPS (Ophthalmology), Diploma In Ophthalmology",24,100%
+Cosmetic Eye Implants,Eye Surgeon,Dr. Muhammad Hassan Nadeem,1,"MBBS, CIC, DRC (Ophthalmology), FRCS (Ophthalmology - ii (Glasgow)",78,99%
+Trabeculotomy,Eye Surgeon,Dr. Abdul Sattar Memon,2,"MBBS, DOMS",235,98%
+Femto Lasik,Eye Surgeon,Prof. Dr. Muhammad Suhail Sarwar,2,"MBBS, M.S (Ophthalmology) ",321,94%
+Entropion & Ectropion Surgery,Eye Surgeon,Dr. Muhammad Hassan Nadeem,1,"MBBS, CIC, DRC (Ophthalmology), FRCS (Ophthalmology - ii (Glasgow)",78,99%
+Chalazion Surgery,Eye Surgeon,Dr. Muhammad Hassan Nadeem,1,"MBBS, CIC, DRC (Ophthalmology), FRCS (Ophthalmology - ii (Glasgow)",78,99%
+External DCR For NLD Obstruction,Eye Surgeon,Dr. Muhammad Hassan Nadeem,1,"MBBS, CIC, DRC (Ophthalmology), FRCS (Ophthalmology - ii (Glasgow)",78,99%
+Cataract Surgery,Eye Surgeon,Dr. Muhammad Hassan Nadeem,1,"MBBS, CIC, DRC (Ophthalmology), FRCS (Ophthalmology - ii (Glasgow)",78,99%
+Stem Cell Treatment In Retinal Diseases,Eye Surgeon,Dr. Muhammad Hassan Nadeem,1,"MBBS, CIC, DRC (Ophthalmology), FRCS (Ophthalmology - ii (Glasgow)",78,99%
+Intravitreal Injections For Infections,Eye Surgeon,Dr. Muhammad Hassan Nadeem,1,"MBBS, CIC, DRC (Ophthalmology), FRCS (Ophthalmology - ii (Glasgow)",78,99%
+Femto LASIK For Glasses Removal,Eye Surgeon,Dr. Muhammad Hassan Nadeem,1,"MBBS, CIC, DRC (Ophthalmology), FRCS (Ophthalmology - ii (Glasgow)",78,99%
+Custom LASIK,Eye Surgeon,Dr. Muhammad Hassan Nadeem,1,"MBBS, CIC, DRC (Ophthalmology), FRCS (Ophthalmology - ii (Glasgow)",78,99%
+Squint Surgery,Eye Surgeon,Dr. Abdul Sattar Memon,2,"MBBS, DOMS",235,98%
+Tran Epithelial PRK,Eye Surgeon,Dr. Muhammad Hassan Nadeem,1,"MBBS, CIC, DRC (Ophthalmology), FRCS (Ophthalmology - ii (Glasgow)",78,99%
+Pascal Laser For Diabetes,Eye Surgeon,Dr. Muhammad Hassan Nadeem,1,"MBBS, CIC, DRC (Ophthalmology), FRCS (Ophthalmology - ii (Glasgow)",78,99%
+Anti-VEGF,Eye Surgeon,Dr. Muhammad Hassan Nadeem,1,"MBBS, CIC, DRC (Ophthalmology), FRCS (Ophthalmology - ii (Glasgow)",78,99%
+Pterygium Surgery,Eye Surgeon,Dr. Muhammad Hassan Nadeem,1,"MBBS, CIC, DRC (Ophthalmology), FRCS (Ophthalmology - ii (Glasgow)",78,99%
+Corneal Cross-Linking (CXL) For Keratoconus,Eye Surgeon,Dr. Muhammad Hassan Nadeem,1,"MBBS, CIC, DRC (Ophthalmology), FRCS (Ophthalmology - ii (Glasgow)",78,99%
+Premium Lens Implantation (Zeiss & Alcon),Eye Surgeon,Dr. Muhammad Hassan Nadeem,1,"MBBS, CIC, DRC (Ophthalmology), FRCS (Ophthalmology - ii (Glasgow)",78,99%
+Ptosis Surgery,Eye Surgeon,Dr. Muhammad Hassan Nadeem,1,"MBBS, CIC, DRC (Ophthalmology), FRCS (Ophthalmology - ii (Glasgow)",78,99%
+Secondary Intraocular Lens (IOL) Implantation,Eye Surgeon,Dr. Muhammad Hassan Nadeem,1,"MBBS, CIC, DRC (Ophthalmology), FRCS (Ophthalmology - ii (Glasgow)",78,99%
+Gastric Balloon Placement,Gastroenterologist,Prof. Dr. Muhammad Asif Gul,1,"MBBS, MCPS (Pak), FCPS (Pak), FRCP (UK) ",150,97%
+Achalasia Dilation,Gastroenterologist,Prof. Dr. Muhammad Asif Gul,2,"MBBS, MCPS (Pak), FCPS (Pak), FRCP (UK) ",150,97%
+Rubber Band Ligation,Gastroenterologist,Prof. Dr. Muhammad Asif Gul,2,"MBBS, MCPS (Pak), FCPS (Pak), FRCP (UK) ",150,97%
+Gastroscopy,Gastroenterologist,Prof. Dr. Muhammad Asif Gul,1,"MBBS, MCPS (Pak), FCPS (Pak), FRCP (UK) ",150,97%
+Percutaneous Endoscopic Gastrostomy (PEG),Gastroenterologist,Prof. Dr. Muhammad Asif Gul,2,"MBBS, MCPS (Pak), FCPS (Pak), FRCP (UK) ",150,97%
+Percutaneous Endoscopic Gastrostomy (PEG),Gastroenterologist,Prof. Dr. Muhammad Asif Gul,2,"MBBS, MCPS (Pak), FCPS (Pak), FRCP (UK) ",150,97%
+Esophageal Stent Placement,Gastroenterologist,Dr. Masood Tareen,1,"MBBS, MCPS(Med), MRCP SCE(UK), FCPS (Gastroenterology), ESEGH (European",188,99%
+Percutaneous Endoscopic Gastrostomy (PEG),Gastroenterologist,Prof. Dr. Muhammad Asif Gul,2,"MBBS, MCPS (Pak), FCPS (Pak), FRCP (UK) ",150,97%
+Biopsy And Polypectomy,Gastroenterologist,Prof. Dr. Muhammad Asif Gul,1,"MBBS, MCPS (Pak), FCPS (Pak), FRCP (UK) ",150,97%
+Percutaneous Endoscopic Gastrostomy (PEG),Gastroenterologist,Prof. Dr. Muhammad Asif Gul,2,"MBBS, MCPS (Pak), FCPS (Pak), FRCP (UK) ",150,97%
+Esophageal Stent Placement,Gastroenterologist,Dr. Masood Tareen,1,"MBBS, MCPS(Med), MRCP SCE(UK), FCPS (Gastroenterology), ESEGH (European",188,99%
+Biopsy And Polypectomy,Gastroenterologist,Prof. Dr. Muhammad Asif Gul,1,"MBBS, MCPS (Pak), FCPS (Pak), FRCP (UK) ",150,97%
+Biopsy And Polypectomy,Gastroenterologist,Prof. Dr. Muhammad Asif Gul,1,"MBBS, MCPS (Pak), FCPS (Pak), FRCP (UK) ",150,97%
+Esophageal Stent Placement,Gastroenterologist,Dr. Masood Tareen,1,"MBBS, MCPS(Med), MRCP SCE(UK), FCPS (Gastroenterology), ESEGH (European",188,99%
+Esophageal Stent Placement,Gastroenterologist,Dr. Masood Tareen,1,"MBBS, MCPS(Med), MRCP SCE(UK), FCPS (Gastroenterology), ESEGH (European",188,99%
+Biopsy And Polypectomy,Gastroenterologist,Prof. Dr. Muhammad Asif Gul,1,"MBBS, MCPS (Pak), FCPS (Pak), FRCP (UK) ",150,97%
+Percutaneous Endoscopic Gastrostomy (PEG),Gastroenterologist,Prof. Dr. Muhammad Asif Gul,2,"MBBS, MCPS (Pak), FCPS (Pak), FRCP (UK) ",150,97%
+Percutaneous Endoscopic Gastrostomy (PEG),Gastroenterologist,Prof. Dr. Muhammad Asif Gul,2,"MBBS, MCPS (Pak), FCPS (Pak), FRCP (UK) ",150,97%
+Esophageal Stent Placement,Gastroenterologist,Dr. Masood Tareen,1,"MBBS, MCPS(Med), MRCP SCE(UK), FCPS (Gastroenterology), ESEGH (European",188,99%
+Biopsy And Polypectomy,Gastroenterologist,Prof. Dr. Muhammad Asif Gul,1,"MBBS, MCPS (Pak), FCPS (Pak), FRCP (UK) ",150,97%
+Percutaneous Endoscopic Gastrostomy (PEG),Gastroenterologist,Prof. Dr. Muhammad Asif Gul,2,"MBBS, MCPS (Pak), FCPS (Pak), FRCP (UK) ",150,97%
+Percutaneous Endoscopic Gastrostomy (PEG),Gastroenterologist,Prof. Dr. Muhammad Asif Gul,2,"MBBS, MCPS (Pak), FCPS (Pak), FRCP (UK) ",150,97%
+Biopsy And Polypectomy,Gastroenterologist,Prof. Dr. Muhammad Asif Gul,1,"MBBS, MCPS (Pak), FCPS (Pak), FRCP (UK) ",150,97%
+Esophageal Stent Placement,Gastroenterologist,Dr. Masood Tareen,1,"MBBS, MCPS(Med), MRCP SCE(UK), FCPS (Gastroenterology), ESEGH (European",188,99%
+Biopsy And Polypectomy,Gastroenterologist,Prof. Dr. Muhammad Asif Gul,1,"MBBS, MCPS (Pak), FCPS (Pak), FRCP (UK) ",150,97%
+Foreign Body Removal,Gastroenterologist,Dr. Masood Tareen,1,"MBBS, MCPS(Med), MRCP SCE(UK), FCPS (Gastroenterology), ESEGH (European",188,99%
+Diagnostic Endoscopy,Gastroenterologist,Dr. Masood Tareen,1,"MBBS, MCPS(Med), MRCP SCE(UK), FCPS (Gastroenterology), ESEGH (European",188,99%
+Colonoscopy,Gastroenterologist,Dr. Masood Tareen,2,"MBBS, MCPS(Med), MRCP SCE(UK), FCPS (Gastroenterology), ESEGH (European",188,99%
+Esophageal Stent Placement,Gastroenterologist,Dr. Masood Tareen,1,"MBBS, MCPS(Med), MRCP SCE(UK), FCPS (Gastroenterology), ESEGH (European",188,99%
+Esophageal Stent Placement,Gastroenterologist,Dr. Masood Tareen,1,"MBBS, MCPS(Med), MRCP SCE(UK), FCPS (Gastroenterology), ESEGH (European",188,99%
+Endoscopic Retrograde Cholangiopancreatography (ERCP),Gastroenterologist,Prof. Dr. Muhammad Asif Gul,3,"MBBS, MCPS (Pak), FCPS (Pak), FRCP (UK) ",150,97%
+Endoscopy,Gastroenterologist,Prof. Dr. Muhammad Asif Gul,2,"MBBS, MCPS (Pak), FCPS (Pak), FRCP (UK) ",150,97%
+Biopsy And Polypectomy,Gastroenterologist,Prof. Dr. Muhammad Asif Gul,1,"MBBS, MCPS (Pak), FCPS (Pak), FRCP (UK) ",150,97%
+Esophageal Stent Placement,Gastroenterologist,Dr. Masood Tareen,1,"MBBS, MCPS(Med), MRCP SCE(UK), FCPS (Gastroenterology), ESEGH (European",188,99%
+Biopsy And Polypectomy,Gastroenterologist,Prof. Dr. Muhammad Asif Gul,1,"MBBS, MCPS (Pak), FCPS (Pak), FRCP (UK) ",150,97%
+Percutaneous Endoscopic Gastrostomy (PEG),Gastroenterologist,Prof. Dr. Muhammad Asif Gul,2,"MBBS, MCPS (Pak), FCPS (Pak), FRCP (UK) ",150,97%
+Esophageal Stent Placement,Gastroenterologist,Dr. Masood Tareen,1,"MBBS, MCPS(Med), MRCP SCE(UK), FCPS (Gastroenterology), ESEGH (European",188,99%
+Percutaneous Endoscopic Gastrostomy (PEG),Gastroenterologist,Prof. Dr. Muhammad Asif Gul,2,"MBBS, MCPS (Pak), FCPS (Pak), FRCP (UK) ",150,97%
+Biopsy And Polypectomy,Gastroenterologist,Prof. Dr. Muhammad Asif Gul,1,"MBBS, MCPS (Pak), FCPS (Pak), FRCP (UK) ",150,97%
+Hernia Surgery,General Surgeon,Asst. Prof. Dr. Junaid Zaman,5,-,36,100%
+Cholecystectomy,General Surgeon,Dr. Imran Altaf,1,"MBBS, FCPS (General Surgery)",4,100%
+Laparotomy Surgery,General Surgeon,Dr. Zahid Ali Memon,2,"MBBS, FCPS (Surgery) , MRCS (UK)",115,96%
+Laparoscopic Colorectal Surgery,General Surgeon,Dr. Nida Saeed,4,"MBBS, FCPS (General Surgery), MRCS (GLASGOW)",157,93%
+Incisional Hernias,General Surgeon,Dr. Zahid Ali Memon,3,"MBBS, FCPS (Surgery) , MRCS (UK)",115,96%
+Lip Augmentation,General Surgeon,Dr. Afsar Ali Bhatti,1,"MBBS, FCPS.(General Surgery), FACS (USA)",103,99%
+Thyroid Surgery,General Surgeon,Dr. Amjad Saeed Mian,4,"MBBS , FRCS (Surgery) UK",66,99%
+Lip Augmentation,General Surgeon,Dr. Afsar Ali Bhatti,1,"MBBS, FCPS.(General Surgery), FACS (USA)",103,99%
+Laparoscopic Appendectomy,General Surgeon,Asst. Prof. Dr. Junaid Zaman,5,-,36,100%
+Hydrocelectomy,General Surgeon,Dr. Zahid Ali Memon,2,"MBBS, FCPS (Surgery) , MRCS (UK)",115,96%
+Laparoscopic Cholecystectomy (Lap Chole),General Surgeon,Dr. Zahid Ali Memon,2,"MBBS, FCPS (Surgery) , MRCS (UK)",115,96%
+Fistula-in-Ano,General Surgeon,Dr. Zahid Ali Memon,2,"MBBS, FCPS (Surgery) , MRCS (UK)",115,96%
+Trauma Surgery,General Surgeon,Dr. Zahid Ali Memon,2,"MBBS, FCPS (Surgery) , MRCS (UK)",115,96%
+Piles Fissure Surgery,General Surgeon,Dr. Amjad Saeed Mian,2,"MBBS , FRCS (Surgery) UK",66,99%
+Ovarian Cystectomy,Gynecologist,Dr. Nazifa Mubashir,4,"MBBS, FCPS, MRCOG, Fellowship (Gynecology Laparoscopy)",457,98%
+C-Section,Gynecologist,Assoc. Prof. Dr. Khadija Asim Khan,9,"MBBS, FCPS ( Obstetrics & Gynecology)",186,96%
+Hysterectomy,Gynecologist,Dr. Somia Sabeeh Awan,3,"MBBS, FCPS (Obstetrics & Gynecology)",457,97%
+Ovarian Cystectomy,Gynecologist,Dr. Nazifa Mubashir,4,"MBBS, FCPS, MRCOG, Fellowship (Gynecology Laparoscopy)",457,98%
+Contraception Intrauterine Devices (IUD),Gynecologist,Dr. Misbah Ashraf,1,"MBBS, MRCOG (UK), FCPS (Gynecology) (PAK), MRCPI (Ireland), DRCOG (UK)",17,100%
+Ovarian Cystectomy,Gynecologist,Dr. Nazifa Mubashir,4,"MBBS, FCPS, MRCOG, Fellowship (Gynecology Laparoscopy)",457,98%
+Hysteroscopy,Gynecologist,Dr. Sabahat Khan,1,"MBBS, FCPS (Obstetrics & Gynecology), Diploma In (Obstetrics & Gynecology),",18,100%
+IVF And Gender Selection,Gynecologist,Dr. Fouzia Iqbal,1,"MBBS, FCPS (Gynecology, Obstetrician)",4,100%
+Laparoscopic Cystectomy,Gynecologist,Asst. Prof. Dr. Rubina Farrukh,1,"MBBS , FCPS (Obstetrics & Gynecology)",363,99%
+Pap Smear,Gynecologist,Asst. Prof. Dr. Rubina Farrukh,1,"MBBS , FCPS (Obstetrics & Gynecology)",363,99%
+Excision Of Vulvar Lesions,Gynecologist,Dr. Nazifa Mubashir,1,"MBBS, FCPS, MRCOG, Fellowship (Gynecology Laparoscopy)",457,98%
+Endometrial Sampling,Gynecologist,Assoc. Prof. Dr. Khadija Asim Khan,1,"MBBS, FCPS ( Obstetrics & Gynecology)",186,96%
+Laparotomy For Endometriosis,Gynecologist,Assoc. Prof. Dr. Khadija Asim Khan,4,"MBBS, FCPS ( Obstetrics & Gynecology)",186,96%
+Spontaneous Vaginal Delivery With Episiotomy,Gynecologist,Assoc. Prof. Dr. Khadija Asim Khan,1,"MBBS, FCPS ( Obstetrics & Gynecology)",186,96%
+Instrumental Deliveries,Gynecologist,Assoc. Prof. Dr. Khadija Asim Khan,1,"MBBS, FCPS ( Obstetrics & Gynecology)",186,96%
+Manual Vacuum Aspiration,Gynecologist,Assoc. Prof. Dr. Khadija Asim Khan,1,"MBBS, FCPS ( Obstetrics & Gynecology)",186,96%
+Obstetrical Hysterectomy,Gynecologist,Assoc. Prof. Dr. Khadija Asim Khan,1,"MBBS, FCPS ( Obstetrics & Gynecology)",186,96%
+Laparoscopic Assisted Hysterectomy,Gynecologist,Assoc. Prof. Dr. Khadija Asim Khan,1,"MBBS, FCPS ( Obstetrics & Gynecology)",186,96%
+Sling Surgery Of Uterine Prolapse,Gynecologist,Assoc. Prof. Dr. Khadija Asim Khan,1,"MBBS, FCPS ( Obstetrics & Gynecology)",186,96%
+Vault Prolapse Surgery,Gynecologist,Assoc. Prof. Dr. Khadija Asim Khan,1,"MBBS, FCPS ( Obstetrics & Gynecology)",186,96%
+Laparoscopic Removal Of Ovarian Cyst And Misplaced IUCD,Gynecologist,Assoc. Prof. Dr. Khadija Asim Khan,1,"MBBS, FCPS ( Obstetrics & Gynecology)",186,96%
+Pre-Implantation Genetic Diagnosis,Gynecologist,Dr. Fouzia Iqbal,1,"MBBS, FCPS (Gynecology, Obstetrician)",4,100%
+Aesthetic Gynaecological Surgeries,Gynecologist,Assoc. Prof. Dr. Khadija Asim Khan,1,"MBBS, FCPS ( Obstetrics & Gynecology)",186,96%
+Anterior Repair,Gynecologist,Assoc. Prof. Dr. Khadija Asim Khan,1,"MBBS, FCPS ( Obstetrics & Gynecology)",186,96%
+Posterior Repair,Gynecologist,Assoc. Prof. Dr. Khadija Asim Khan,2,"MBBS, FCPS ( Obstetrics & Gynecology)",186,96%
+Jadelle Implant,Gynecologist,Asst. Prof. Dr. Rubina Farrukh,1,"MBBS , FCPS (Obstetrics & Gynecology)",363,99%
+Normal Delivery,Gynecologist,Asst. Prof. Dr. Rubina Farrukh,7,"MBBS , FCPS (Obstetrics & Gynecology)",363,99%
+Intrauterine Contraceptive Device IUCD,Gynecologist,Asst. Prof. Dr. Rubina Farrukh,2,"MBBS , FCPS (Obstetrics & Gynecology)",363,99%
+Intrauterine Insemination IUI ,Gynecologist,Asst. Prof. Dr. Rubina Farrukh,3,"MBBS , FCPS (Obstetrics & Gynecology)",363,99%
+Minor Surgery,Gynecologist,Dr. Fauzia Shafiq,1,"MBBS, FCPS (Obstetrics & Gynecology), MCPS (Obstetrics & Gynecology) ",7,100%
+Major Surgery,Gynecologist,Dr. Fauzia Shafiq,1,"MBBS, FCPS (Obstetrics & Gynecology), MCPS (Obstetrics & Gynecology) ",7,100%
+Elective Cesarean Surgery LSCS,Gynecologist,Dr. Fauzia Shafiq,1,"MBBS, FCPS (Obstetrics & Gynecology), MCPS (Obstetrics & Gynecology) ",7,100%
+Macdonald Stitch,Gynecologist,Dr. Sabahat Khan,1,"MBBS, FCPS (Obstetrics & Gynecology), Diploma In (Obstetrics & Gynecology),",18,100%
+Infertility Treatment IVF,Gynecologist,Dr. Samina Toufeeq,2,"MBBS, DGO",278,99%
+Intracytoplasmic Sperm Injection ICSI,Gynecologist,Dr. Samina Toufeeq,2,"MBBS, DGO",278,99%
+Vaginal Hysterectomy,Gynecologist,Assoc. Prof. Dr. Khadija Asim Khan,8,"MBBS, FCPS ( Obstetrics & Gynecology)",186,96%
+Total Laparoscopic Hysterectomy TLH,Gynecologist,Asst. Prof. Dr. Rubina Farrukh,4,"MBBS , FCPS (Obstetrics & Gynecology)",363,99%
+Laparotomy For Ovarian Cancer,Gynecologist,Dr. Shamim Fatima,1,"MBBS, MCPS (Obstetrics & Gynaecology)",88,100%
+"Anterior And Posterior Repair (aesthetic, Colporrhaphy)",Gynecologist,Assoc. Prof. Dr. Khadija Asim Khan,1,"MBBS, FCPS ( Obstetrics & Gynecology)",186,96%
+Tubal Ligation Or Sterilization,Gynecologist,Dr. Nazifa Mubashir,1,"MBBS, FCPS, MRCOG, Fellowship (Gynecology Laparoscopy)",457,98%
+Tubal Ligation Or Sterilization,Gynecologist,Dr. Nazifa Mubashir,1,"MBBS, FCPS, MRCOG, Fellowship (Gynecology Laparoscopy)",457,98%
+D&C (diagnostic/therapeutic),Gynecologist,Assoc. Prof. Dr. Khadija Asim Khan,6,"MBBS, FCPS ( Obstetrics & Gynecology)",186,96%
+High Order C-section Complicated With Room,Gynecologist,Dr. Somia Sabeeh Awan,1,"MBBS, FCPS (Obstetrics & Gynecology)",457,97%
+C-section (uncomplicated) In The Operating Room,Gynecologist,Dr. Farzana Munawar,3,"MBBS, MCPS (Obstetrics & Gynecology)",17,95%
+Spontaneous Vaginal Delivery (SVD) Without Labor,Gynecologist,Dr. Misbah Ashraf,2,"MBBS, MRCOG (UK), FCPS (Gynecology) (PAK), MRCPI (Ireland), DRCOG (UK)",17,100%
+Laparotomy For Ectopic Pregnancy And Simple Ovarian Cyst,Gynecologist,Dr. Samina Toufeeq,1,"MBBS, DGO",278,99%
+High Order C-section Complicated With Room,Gynecologist,Dr. Somia Sabeeh Awan,1,"MBBS, FCPS (Obstetrics & Gynecology)",457,97%
+C-section (uncomplicated) In The Operating Room,Gynecologist,Dr. Farzana Munawar,3,"MBBS, MCPS (Obstetrics & Gynecology)",17,95%
+Spontaneous Vaginal Delivery (SVD) Without Labor,Gynecologist,Dr. Misbah Ashraf,2,"MBBS, MRCOG (UK), FCPS (Gynecology) (PAK), MRCPI (Ireland), DRCOG (UK)",17,100%
+Laparotomy For Ectopic Pregnancy And Simple Ovarian Cyst,Gynecologist,Dr. Samina Toufeeq,1,"MBBS, DGO",278,99%
+Total Abdominal Hysterectomy And Vaginal Hysterectomy,Gynecologist,Assoc. Prof. Dr. Khadija Asim Khan,6,"MBBS, FCPS ( Obstetrics & Gynecology)",186,96%
+Colposcopy And Biopsy,Gynecologist,Dr. Nazifa Mubashir,1,"MBBS, FCPS, MRCOG, Fellowship (Gynecology Laparoscopy)",457,98%
+Polypectomy And Dilatation & Curettage (D&C),Gynecologist,Assoc. Prof. Dr. Khadija Asim Khan,3,"MBBS, FCPS ( Obstetrics & Gynecology)",186,96%
+Diagnostic Laparoscopy,Gynecologist,Assoc. Prof. Dr. Khadija Asim Khan,5,"MBBS, FCPS ( Obstetrics & Gynecology)",186,96%
+Laparotomy For Ectopic Pregnancy And Simple Ovarian Cyst,Gynecologist,Dr. Samina Toufeeq,1,"MBBS, DGO",278,99%
+"Anterior And Posterior Repair (aesthetic, Colporrhaphy)",Gynecologist,Assoc. Prof. Dr. Khadija Asim Khan,1,"MBBS, FCPS ( Obstetrics & Gynecology)",186,96%
+Polypectomy And Dilatation & Curettage (D&C),Gynecologist,Assoc. Prof. Dr. Khadija Asim Khan,3,"MBBS, FCPS ( Obstetrics & Gynecology)",186,96%
+Suction Curettage,Gynecologist,Assoc. Prof. Dr. Khadija Asim Khan,1,"MBBS, FCPS ( Obstetrics & Gynecology)",186,96%
+Diagnostic Laparoscopy,Gynecologist,Assoc. Prof. Dr. Khadija Asim Khan,5,"MBBS, FCPS ( Obstetrics & Gynecology)",186,96%
+Manchester Repair,Gynecologist,Assoc. Prof. Dr. Khadija Asim Khan,2,"MBBS, FCPS ( Obstetrics & Gynecology)",186,96%
+Vaginal Surgery For Prolapse,Gynecologist,Dr. Shamim Fatima,1,"MBBS, MCPS (Obstetrics & Gynaecology)",88,100%
+Total Abdominal Hysterectomy And Vaginal Hysterectomy,Gynecologist,Assoc. Prof. Dr. Khadija Asim Khan,6,"MBBS, FCPS ( Obstetrics & Gynecology)",186,96%
+Laparotomy For Ovarian Cancer,Gynecologist,Dr. Shamim Fatima,1,"MBBS, MCPS (Obstetrics & Gynaecology)",88,100%
+Manchester Repair,Gynecologist,Assoc. Prof. Dr. Khadija Asim Khan,2,"MBBS, FCPS ( Obstetrics & Gynecology)",186,96%
+Vaginal Surgery For Prolapse,Gynecologist,Dr. Shamim Fatima,1,"MBBS, MCPS (Obstetrics & Gynaecology)",88,100%
+Suction Curettage,Gynecologist,Assoc. Prof. Dr. Khadija Asim Khan,1,"MBBS, FCPS ( Obstetrics & Gynecology)",186,96%
+Excision Of Vulvar Lesions,Gynecologist,Dr. Nazifa Mubashir,1,"MBBS, FCPS, MRCOG, Fellowship (Gynecology Laparoscopy)",457,98%
+Kidney Biopsy,Nephrologist,Dr. Bilal Tahir,1,"MBBS, FCPS (Neprhology)",0,-
+Double-lumen Hemodialysis Catheters,Nephrologist,Dr. Bilal Tahir,1,"MBBS, FCPS (Neprhology)",0,-
+Intracranial Bleed,Neuro Surgeon,Dr. Tanweer Ahmed,2,"MBBS, FCPS (Neurosurgery) ",3,100%
+Spinal Fusion,Neuro Surgeon,Dr. Irfan Ali Shah,1,"MBBS, FCPS (Neurosurgery)",47,98%
+Discectomy,Neuro Surgeon,Dr. Irfan Ali Shah,1,"MBBS, FCPS (Neurosurgery)",47,98%
+Craniosynostosis,Neuro Surgeon,Dr. Tanweer Ahmed,2,"MBBS, FCPS (Neurosurgery) ",3,100%
+Spinal Tumors,Neuro Surgeon,Dr. Tanweer Ahmed,2,"MBBS, FCPS (Neurosurgery) ",3,100%
+Craniotomy,Neuro Surgeon,Dr. Irfan Ali Shah,1,"MBBS, FCPS (Neurosurgery)",47,98%
+Brain Abscess,Neuro Surgeon,Dr. Tanweer Ahmed,2,"MBBS, FCPS (Neurosurgery) ",3,100%
+Endoscopic 3rd Ventriculostomy Surgery,Neuro Surgeon,Dr. Tanweer Ahmed,2,"MBBS, FCPS (Neurosurgery) ",3,100%
+Depressed Skull Fracture Elevation,Neuro Surgeon,Dr. Tanweer Ahmed,2,"MBBS, FCPS (Neurosurgery) ",3,100%
+External Ventricular Drains,Neuro Surgeon,Dr. Tanweer Ahmed,2,"MBBS, FCPS (Neurosurgery) ",3,100%
+Subdural Hematoma (SDH),Neuro Surgeon,Dr. Tanweer Ahmed,2,"MBBS, FCPS (Neurosurgery) ",3,100%
+Epidural Hematoma (EDH),Neuro Surgeon,Dr. Tanweer Ahmed,2,"MBBS, FCPS (Neurosurgery) ",3,100%
+Scalp Anesthesia,Neuro Surgeon,Dr. Tanweer Ahmed,2,"MBBS, FCPS (Neurosurgery) ",3,100%
+Chiari Malformation,Neuro Surgeon,Dr. Tanweer Ahmed,2,"MBBS, FCPS (Neurosurgery) ",3,100%
+Hydrocephalus In Encephalocele,Neuro Surgeon,Dr. Tanweer Ahmed,2,"MBBS, FCPS (Neurosurgery) ",3,100%
+Hydrocephalus In Myelomeningocele,Neuro Surgeon,Dr. Tanweer Ahmed,2,"MBBS, FCPS (Neurosurgery) ",3,100%
+Laminectomy,Neuro Surgeon,Dr. Irfan Ali Shah,1,"MBBS, FCPS (Neurosurgery)",47,98%
+ Cervical Spinal Fixation With Implants,Neuro Surgeon,Dr. Tanweer Ahmed,2,"MBBS, FCPS (Neurosurgery) ",3,100%
+Lumbar Fixation With Implant,Neuro Surgeon,Dr. Tanweer Ahmed,2,"MBBS, FCPS (Neurosurgery) ",3,100%
+Cervical PID With Implant,Neuro Surgeon,Dr. Tanweer Ahmed,2,"MBBS, FCPS (Neurosurgery) ",3,100%
+Lumbar Prolapsed Intervertebral,Neuro Surgeon,Dr. Tanweer Ahmed,2,"MBBS, FCPS (Neurosurgery) ",3,100%
+Encephalocele,Neuro Surgeon,Dr. Tanweer Ahmed,2,"MBBS, FCPS (Neurosurgery) ",3,100%
+Myelomeningocele,Neuro Surgeon,Dr. Tanweer Ahmed,2,"MBBS, FCPS (Neurosurgery) ",3,100%
+Hydrocephalus,Neuro Surgeon,Dr. Tanweer Ahmed,2,"MBBS, FCPS (Neurosurgery) ",3,100%
+Brain Tumor Surgery,Neuro Surgeon,Dr. Tanweer Ahmed,2,"MBBS, FCPS (Neurosurgery) ",3,100%
+Deep Brain Stimulation,Neuro Surgeon,Dr. Irfan Ali Shah,1,"MBBS, FCPS (Neurosurgery)",47,98%
+Stereotactic Radiosurgery,Neuro Surgeon,Dr. Irfan Ali Shah,1,"MBBS, FCPS (Neurosurgery)",47,98%
+Discectomy,Neuro Surgeon,Dr. Irfan Ali Shah,1,"MBBS, FCPS (Neurosurgery)",47,98%
+Deep Brain Stimulation,Neuro Surgeon,Dr. Irfan Ali Shah,1,"MBBS, FCPS (Neurosurgery)",47,98%
+Microvascular Decompression,Neuro Surgeon,Dr. Irfan Ali Shah,1,"MBBS, FCPS (Neurosurgery)",47,98%
+Ventriculoperitoneal Shunt,Neuro Surgeon,Dr. Irfan Ali Shah,1,"MBBS, FCPS (Neurosurgery)",47,98%
+Microvascular Decompression,Neuro Surgeon,Dr. Irfan Ali Shah,1,"MBBS, FCPS (Neurosurgery)",47,98%
+Ventriculoperitoneal Shunt,Neuro Surgeon,Dr. Irfan Ali Shah,1,"MBBS, FCPS (Neurosurgery)",47,98%
+Discectomy,Neuro Surgeon,Dr. Irfan Ali Shah,1,"MBBS, FCPS (Neurosurgery)",47,98%
+Deep Brain Stimulation,Neuro Surgeon,Dr. Irfan Ali Shah,1,"MBBS, FCPS (Neurosurgery)",47,98%
+Tumor & Trauma Surgery ,Oral and Maxillofacial Surgeon,Assoc. Prof. Dr. Shahid Ali,1,"BDS, FCPS (Oral & Maxillo Facial Surgery)",0,-
+Tibia Nail Removal,Orthopedic Surgeon,Asst. Prof. Dr. Muhammad Humayun Hameed,1,"MBBS , MCPS, FCPS (Agha Khan Hospital), Fellowship In Ilizarove (Italy),",342,99%
+Femur Plating (DCP Plate),Orthopedic Surgeon,Asst. Prof. Dr. Muhammad Humayun Hameed,1,"MBBS , MCPS, FCPS (Agha Khan Hospital), Fellowship In Ilizarove (Italy),",342,99%
+Tibia Plating (DCP Plate),Orthopedic Surgeon,Asst. Prof. Dr. Muhammad Humayun Hameed,1,"MBBS , MCPS, FCPS (Agha Khan Hospital), Fellowship In Ilizarove (Italy),",342,99%
+Dynamic Hip Screw - DHS,Orthopedic Surgeon,Asst. Prof. Dr. Muhammad Humayun Hameed,1,"MBBS , MCPS, FCPS (Agha Khan Hospital), Fellowship In Ilizarove (Italy),",342,99%
+ Austin Moore For Neck,Orthopedic Surgeon,Asst. Prof. Dr. Muhammad Humayun Hameed,1,"MBBS , MCPS, FCPS (Agha Khan Hospital), Fellowship In Ilizarove (Italy),",342,99%
+Foot Bone Fracture,Orthopedic Surgeon,Asst. Prof. Dr. Muhammad Humayun Hameed,1,"MBBS , MCPS, FCPS (Agha Khan Hospital), Fellowship In Ilizarove (Italy),",342,99%
+Hand Fracture,Orthopedic Surgeon,Asst. Prof. Dr. Muhammad Humayun Hameed,1,"MBBS , MCPS, FCPS (Agha Khan Hospital), Fellowship In Ilizarove (Italy),",342,99%
+Iilizarov Surgery Tibia,Orthopedic Surgeon,Asst. Prof. Dr. Muhammad Humayun Hameed,1,"MBBS , MCPS, FCPS (Agha Khan Hospital), Fellowship In Ilizarove (Italy),",342,99%
+Prostatectomy (removal Of The Prostate Gland),Orthopedic Surgeon,Dr. Sajjad Ali,3,"MBBS, FCPS(orthopedic Surgery)",9,100%
+Vasectomy (male Sterilization),Orthopedic Surgeon,Dr. Sajjad Ali,2,"MBBS, FCPS(orthopedic Surgery)",9,100%
+Knee Replacement Surgery,Orthopedic Surgeon,Dr. Rahat Zahoor Moton,2,"MBBS, FCPS (Orthopedic Surgery)",93,92%
+Closed Reduction Of Fracture Upper & Lower Limbs,Orthopedic Surgeon,Prof. Dr. Ali Ahmad,1,"MBBS, FRCS (Surgery)",26,100%
+Clavicle Fracture (Broken Collarbone),Orthopedic Surgeon,Asst. Prof. Dr. Muhammad Humayun Hameed,1,"MBBS , MCPS, FCPS (Agha Khan Hospital), Fellowship In Ilizarove (Italy),",342,99%
+Spinal Anesthesia,Orthopedic Surgeon,Prof. Dr. Ali Ahmad,1,"MBBS, FRCS (Surgery)",26,100%
+Fracture Upper & Lower Limb,Orthopedic Surgeon,Prof. Dr. Ali Ahmad,1,"MBBS, FRCS (Surgery)",26,100%
+Intra-Articular Injection,Orthopedic Surgeon,Dr. Rahat Zahoor Moton,1,"MBBS, FCPS (Orthopedic Surgery)",93,92%
+Trauma Surgery,Orthopedic Surgeon,Dr. Rahat Zahoor Moton,1,"MBBS, FCPS (Orthopedic Surgery)",93,92%
+Prostate Brachytherapy (treatment For Prostate Cancer),Orthopedic Surgeon,Dr. Sajjad Ali,2,"MBBS, FCPS(orthopedic Surgery)",9,100%
+Radical Nephrectomy (surgical Removal Of The Entire Kidney And Surrounding Tissues),Orthopedic Surgeon,Dr. Sajjad Ali,3,"MBBS, FCPS(orthopedic Surgery)",9,100%
+Penile Implant Surgery (treatment For Erectile Dysfunction),Orthopedic Surgeon,Dr. Sajjad Ali,2,"MBBS, FCPS(orthopedic Surgery)",9,100%
+Lithotripsy (non-invasive Treatment For Kidney Stones),Orthopedic Surgeon,Dr. Sajjad Ali,2,"MBBS, FCPS(orthopedic Surgery)",9,100%
+Prostatectomy (removal Of The Prostate Gland),Orthopedic Surgeon,Dr. Sajjad Ali,3,"MBBS, FCPS(orthopedic Surgery)",9,100%
+Prostate Brachytherapy (treatment For Prostate Cancer),Orthopedic Surgeon,Dr. Sajjad Ali,2,"MBBS, FCPS(orthopedic Surgery)",9,100%
+Percutaneous Nephrolithotomy (surgical Removal Of Kidney Stones),Orthopedic Surgeon,Dr. Sajjad Ali,3,"MBBS, FCPS(orthopedic Surgery)",9,100%
+Transurethral Resection Of The Prostate (TURP),Orthopedic Surgeon,Dr. Sajjad Ali,4,"MBBS, FCPS(orthopedic Surgery)",9,100%
+Artificial Urinary Sphincter Surgery (treatment For Urinary Incontinence),Orthopedic Surgeon,Dr. Sajjad Ali,2,"MBBS, FCPS(orthopedic Surgery)",9,100%
+Nephrectomy (removal Of A Kidney),Orthopedic Surgeon,Dr. Sajjad Ali,3,"MBBS, FCPS(orthopedic Surgery)",9,100%
+Lithotripsy (non-invasive Treatment For Kidney Stones),Orthopedic Surgeon,Dr. Sajjad Ali,2,"MBBS, FCPS(orthopedic Surgery)",9,100%
+Urethral Sling Surgery (treatment For Urinary Incontinence),Orthopedic Surgeon,Dr. Sajjad Ali,2,"MBBS, FCPS(orthopedic Surgery)",9,100%
+Penile Implant Surgery (treatment For Erectile Dysfunction),Orthopedic Surgeon,Dr. Sajjad Ali,2,"MBBS, FCPS(orthopedic Surgery)",9,100%
+Ankle Fractures (Broken Ankle),Orthopedic Surgeon,Asst. Prof. Dr. Muhammad Humayun Hameed,1,"MBBS , MCPS, FCPS (Agha Khan Hospital), Fellowship In Ilizarove (Italy),",342,99%
+Orchiectomy (removal Of A Testicle),Orthopedic Surgeon,Dr. Sajjad Ali,3,"MBBS, FCPS(orthopedic Surgery)",9,100%
+Bladder Augmentation (treatment For Bladder Dysfunction),Orthopedic Surgeon,Dr. Sajjad Ali,2,"MBBS, FCPS(orthopedic Surgery)",9,100%
+Artificial Urinary Sphincter Surgery (treatment For Urinary Incontinence),Orthopedic Surgeon,Dr. Sajjad Ali,2,"MBBS, FCPS(orthopedic Surgery)",9,100%
+Percutaneous Nephrolithotomy (surgical Removal Of Kidney Stones),Orthopedic Surgeon,Dr. Sajjad Ali,3,"MBBS, FCPS(orthopedic Surgery)",9,100%
+Femur Nail Surgery,Orthopedic Surgeon,Asst. Prof. Dr. Muhammad Humayun Hameed,1,"MBBS , MCPS, FCPS (Agha Khan Hospital), Fellowship In Ilizarove (Italy),",342,99%
+Orchiectomy (removal Of A Testicle),Orthopedic Surgeon,Dr. Sajjad Ali,3,"MBBS, FCPS(orthopedic Surgery)",9,100%
+Prostate Brachytherapy (treatment For Prostate Cancer),Orthopedic Surgeon,Dr. Sajjad Ali,2,"MBBS, FCPS(orthopedic Surgery)",9,100%
+Bladder Augmentation (treatment For Bladder Dysfunction),Orthopedic Surgeon,Dr. Sajjad Ali,2,"MBBS, FCPS(orthopedic Surgery)",9,100%
+Prostatectomy (removal Of The Prostate Gland),Orthopedic Surgeon,Dr. Sajjad Ali,3,"MBBS, FCPS(orthopedic Surgery)",9,100%
+Lithotripsy (non-invasive Treatment For Kidney Stones),Orthopedic Surgeon,Dr. Sajjad Ali,2,"MBBS, FCPS(orthopedic Surgery)",9,100%
+Penile Implant Surgery (treatment For Erectile Dysfunction),Orthopedic Surgeon,Dr. Sajjad Ali,2,"MBBS, FCPS(orthopedic Surgery)",9,100%
+Circumcision Using General Anaesthetic,Pediatric Surgeon,Prof. Dr. Nadeem Akhtar,1,"MBBS, MS, Dip Pediatric Surgery (London)",466,97%
+Colostomy Surgery,Pediatric Surgeon,Prof. Dr. Nadeem Akhtar,2,"MBBS, MS, Dip Pediatric Surgery (London)",466,97%
+Rectal Biopsy,Pediatric Surgeon,Prof. Dr. Nadeem Akhtar,1,"MBBS, MS, Dip Pediatric Surgery (London)",466,97%
+Undescended Testis,Pediatric Surgeon,Prof. Dr. Nadeem Akhtar,2,"MBBS, MS, Dip Pediatric Surgery (London)",466,97%
+Cyst Excision Surgery,Pediatric Surgeon,Prof. Dr. Nadeem Akhtar,1,"MBBS, MS, Dip Pediatric Surgery (London)",466,97%
+Choledochal Cyst Surgery,Pediatric Surgeon,Prof. Dr. Nadeem Akhtar,1,"MBBS, MS, Dip Pediatric Surgery (London)",466,97%
+Laparoscopic Orchidopexy,Pediatric Surgeon,Dr. Muhammad Mohsin,1,"MBBS, FCPS (Pediatric Surgery), MRCPS (Glasgow)",26,100%
+Appendectomy Surgery,Pediatric Surgeon,Prof. Dr. Nadeem Akhtar,1,"MBBS, MS, Dip Pediatric Surgery (London)",466,97%
+Lymph Node Biopsy,Pediatric Surgeon,Prof. Dr. Nadeem Akhtar,1,"MBBS, MS, Dip Pediatric Surgery (London)",466,97%
+Tongue Tie Surgery,Pediatric Surgeon,Prof. Dr. Nadeem Akhtar,1,"MBBS, MS, Dip Pediatric Surgery (London)",466,97%
+ Circumcision Under Local Anaesthesia,Pediatric Surgeon,Prof. Dr. Nadeem Akhtar,1,"MBBS, MS, Dip Pediatric Surgery (London)",466,97%
+Epispadias Surgery,Pediatric Surgeon,Prof. Dr. Nadeem Akhtar,1,"MBBS, MS, Dip Pediatric Surgery (London)",466,97%
+Hypospadias Surgery,Pediatric Surgeon,Prof. Dr. Nadeem Akhtar,1,"MBBS, MS, Dip Pediatric Surgery (London)",466,97%
+Hernia Inguinal Surgery,Pediatric Surgeon,Dr. Muhammad Mohsin,2,"MBBS, FCPS (Pediatric Surgery), MRCPS (Glasgow)",26,100%
+Laparoscopic Inguinal Herniotomy,Pediatric Surgeon,Dr. Muhammad Mohsin,1,"MBBS, FCPS (Pediatric Surgery), MRCPS (Glasgow)",26,100%
+Hymenorrhaphy,Plastic Surgeon,Asst. Prof. Dr. Zohaib Hidayat,1,"MBBS, FCPS (Plastic Surgery)",13,100%
+Cheek Augmentation,Plastic Surgeon,Asst. Prof. Dr. Bushra Zulfiqar,1,"MBBS, FCPS (Plastic Surgery) , CHPE",8,89%
+Dimpleplasty,Plastic Surgeon,Asst. Prof. Dr. Zohaib Hidayat,1,"MBBS, FCPS (Plastic Surgery)",13,100%
+Facial Fat Grafting,Plastic Surgeon,Dr. Muhammad Imran Orakzai,5,"MBBS , FCPS (Plastic Surgery)*",0,-
+Ear Surgery (otoplasty),Plastic Surgeon,Asst. Prof. Dr. Bushra Zulfiqar,3,"MBBS, FCPS (Plastic Surgery) , CHPE",8,89%
+Facelift,Plastic Surgeon,Asst. Prof. Dr. Bushra Zulfiqar,6,"MBBS, FCPS (Plastic Surgery) , CHPE",8,89%
+Neck Lift,Plastic Surgeon,Asst. Prof. Dr. Bushra Zulfiqar,1,"MBBS, FCPS (Plastic Surgery) , CHPE",8,89%
+Breast Augmentation,Plastic Surgeon,Asst. Prof. Dr. Umer Nazir,3,"MBBS, FCPS ( Plastic & Cosmetic Surgery) , MD (USA)",11,79%
+Facial Fat Grafting,Plastic Surgeon,Dr. Muhammad Imran Orakzai,5,"MBBS , FCPS (Plastic Surgery)*",0,-
+Breast Augmentation,Plastic Surgeon,Asst. Prof. Dr. Umer Nazir,3,"MBBS, FCPS ( Plastic & Cosmetic Surgery) , MD (USA)",11,79%
+Facelift,Plastic Surgeon,Asst. Prof. Dr. Bushra Zulfiqar,6,"MBBS, FCPS (Plastic Surgery) , CHPE",8,89%
+Facial Fat Grafting,Plastic Surgeon,Dr. Muhammad Imran Orakzai,5,"MBBS , FCPS (Plastic Surgery)*",0,-
+Neck Lift,Plastic Surgeon,Asst. Prof. Dr. Bushra Zulfiqar,1,"MBBS, FCPS (Plastic Surgery) , CHPE",8,89%
+Brow Lift,Plastic Surgeon,Asst. Prof. Dr. Bushra Zulfiqar,3,"MBBS, FCPS (Plastic Surgery) , CHPE",8,89%
+Rhinoplasty (nose Surgery),Plastic Surgeon,Asst. Prof. Dr. Bushra Zulfiqar,8,"MBBS, FCPS (Plastic Surgery) , CHPE",8,89%
+Eyelid Surgery (blepharoplasty),Plastic Surgeon,Asst. Prof. Dr. Bushra Zulfiqar,3,"MBBS, FCPS (Plastic Surgery) , CHPE",8,89%
+Platelet-rich Plasma (PRP) For Face And Scalp,Plastic Surgeon,Dr. Zarak Khan,1," MBBS, FCPS (Plastic Surgery)",0,-
+Brow Lift,Plastic Surgeon,Asst. Prof. Dr. Bushra Zulfiqar,3,"MBBS, FCPS (Plastic Surgery) , CHPE",8,89%
+Eyelid Surgery (blepharoplasty),Plastic Surgeon,Asst. Prof. Dr. Bushra Zulfiqar,3,"MBBS, FCPS (Plastic Surgery) , CHPE",8,89%
+Rhinoplasty (nose Surgery),Plastic Surgeon,Asst. Prof. Dr. Bushra Zulfiqar,8,"MBBS, FCPS (Plastic Surgery) , CHPE",8,89%
+Chin Surgery (genioplasty),Plastic Surgeon,Asst. Prof. Dr. Bushra Zulfiqar,1,"MBBS, FCPS (Plastic Surgery) , CHPE",8,89%
+Skin Whitening Treatment,Plastic Surgeon,Dr. Muhammad Imran Orakzai,7,"MBBS , FCPS (Plastic Surgery)*",0,-
+Fat Transfer,Plastic Surgeon,Asst. Prof. Dr. Bushra Zulfiqar,1,"MBBS, FCPS (Plastic Surgery) , CHPE",8,89%
+Vaginoplasty.,Plastic Surgeon,Asst. Prof. Dr. Bushra Zulfiqar,2,"MBBS, FCPS (Plastic Surgery) , CHPE",8,89%
+Laser Skin Resurfacing,Plastic Surgeon,Asst. Prof. Dr. Bushra Zulfiqar,2,"MBBS, FCPS (Plastic Surgery) , CHPE",8,89%
+Scar Revision Surgery,Plastic Surgeon,Asst. Prof. Dr. Bushra Zulfiqar,1,"MBBS, FCPS (Plastic Surgery) , CHPE",8,89%
+Mohs Surgery,Plastic Surgeon,Asst. Prof. Dr. Bushra Zulfiqar,1,"MBBS, FCPS (Plastic Surgery) , CHPE",8,89%
+Hair Transplant Surgery,Plastic Surgeon,Asst. Prof. Dr. Bushra Zulfiqar,1,"MBBS, FCPS (Plastic Surgery) , CHPE",8,89%
+Gynecomastia Surgery (male Breast Reduction),Plastic Surgeon,Asst. Prof. Dr. Bushra Zulfiqar,2,"MBBS, FCPS (Plastic Surgery) , CHPE",8,89%
+Labiaplasty,Plastic Surgeon,Asst. Prof. Dr. Bushra Zulfiqar,1,"MBBS, FCPS (Plastic Surgery) , CHPE",8,89%
+Botox Injections,Plastic Surgeon,Asst. Prof. Dr. Bushra Zulfiqar,13,"MBBS, FCPS (Plastic Surgery) , CHPE",8,89%
+Treatment Of Oral Cavity Tumors,Restorative Dentist,Dr. Amer Al Bermawy,1,"BDS, RDS",1,100%
+Treatment Of Oral Cavity Cysts,Restorative Dentist,Dr. Amer Al Bermawy,1,"BDS, RDS",1,100%
+Treatment Of Facial Fractures,Restorative Dentist,Dr. Amer Al Bermawy,1,"BDS, RDS",1,100%
+Facial Trauma Management,Restorative Dentist,Dr. Amer Al Bermawy,1,"BDS, RDS",1,100%
+CPD,Restorative Dentist,Dr. Amer Al Bermawy,3,"BDS, RDS",1,100%
+Gingival Contouring,Restorative Dentist,Dr. Amer Al Bermawy,1,"BDS, RDS",1,100%
+Supportive Periodontal Therapy,Restorative Dentist,Dr. Amer Al Bermawy,3,"BDS, RDS",1,100%
+Biopsies Of Oral Cavity,Restorative Dentist,Dr. Amer Al Bermawy,1,"BDS, RDS",1,100%
+Glass Ionomer Filling,Restorative Dentist,Dr. Amer Al Bermawy,3,"BDS, RDS",1,100%
+Re-Root Canal Molars,Restorative Dentist,Dr. Amer Al Bermawy,3,"BDS, RDS",1,100%
+Multi-rooted Molars,Restorative Dentist,Dr. Amer Al Bermawy,3,"BDS, RDS",1,100%
+Emergency Relief Of Facial Pain,Restorative Dentist,Dr. Amer Al Bermawy,2,"BDS, RDS",1,100%
+Condylectomy,Restorative Dentist,Dr. Amer Al Bermawy,1,"BDS, RDS",1,100%
+Implants,Restorative Dentist,Dr. Amer Al Bermawy,1,"BDS, RDS",1,100%
+Scaling And Polishing (Gum Treatment),Restorative Dentist,Dr. Amer Al Bermawy,1,"BDS, RDS",1,100%
+Marsupialization And Curettage Of Oral Cysts,Restorative Dentist,Dr. Amer Al Bermawy,1,"BDS, RDS",1,100%
+Apicoectomy Of Teeth,Restorative Dentist,Dr. Amer Al Bermawy,1,"BDS, RDS",1,100%
+Removal Of Stones In The Oral Cavity,Restorative Dentist,Dr. Amer Al Bermawy,1,"BDS, RDS",1,100%
+Alveoplasty,Restorative Dentist,Dr. Amer Al Bermawy,1,"BDS, RDS",1,100%
+Teeth Whitening,Restorative Dentist,Dr. Amer Al Bermawy,14,"BDS, RDS",1,100%
+Bone Grafting In Alveolar Septal Defects,Restorative Dentist,Dr. Amer Al Bermawy,1,"BDS, RDS",1,100%
+Ankle Injection,Rheumatologist,Dr. Muhammad Qousain Ali,1,"MBBS, Postgraduate Diploma In Rheumatology, Member of British Society for",45,92%
+Wrist Injection,Rheumatologist,Dr. Muhammad Qousain Ali,1,"MBBS, Postgraduate Diploma In Rheumatology, Member of British Society for",45,92%
+Finger Joint Injection,Rheumatologist,Dr. Muhammad Qousain Ali,1,"MBBS, Postgraduate Diploma In Rheumatology, Member of British Society for",45,92%
+Shoulder Joint Injection,Rheumatologist,Dr. Muhammad Qousain Ali,1,"MBBS, Postgraduate Diploma In Rheumatology, Member of British Society for",45,92%
+Vaginal Hysterectomy,Urologist,Dr. Abdul Ghaffar,1,"MBBS, FCPS (Urology)",615,96%
+Vaginal Hysterectomy,Urologist,Dr. Abdul Ghaffar,1,"MBBS, FCPS (Urology)",615,96%
+Open & Laproscopic Surgery,Urologist,Dr. Abdul Ghaffar,2,"MBBS, FCPS (Urology)",615,96%
+Vaginal Hysterectomy,Urologist,Dr. Abdul Ghaffar,1,"MBBS, FCPS (Urology)",615,96%
+Vaginal Hysterectomy,Urologist,Dr. Abdul Ghaffar,1,"MBBS, FCPS (Urology)",615,96%
+Vesicolithotomy And Cystolitholapaxy,Urologist,Dr. Abdul Ghaffar,2,"MBBS, FCPS (Urology)",615,96%
+Vaginal Hysterectomy,Urologist,Dr. Abdul Ghaffar,1,"MBBS, FCPS (Urology)",615,96%
+Ureteroscopy With Laser Lithotripsy Treatment,Urologist,Dr. Sajjad Ali Shah,1,"MBBS, FCPS (Urology)",51,100%
+DJ Stenting,Urologist,Dr. Abdul Ghaffar,2,"MBBS, FCPS (Urology)",615,96%
+Total Abdominal Hysterectomy,Urologist,Dr. Abdul Ghaffar,2,"MBBS, FCPS (Urology)",615,96%
+Vasectomy,Urologist,Dr. Sajjad Ali Shah,1,"MBBS, FCPS (Urology)",51,100%
+Dilation And Curettage (D&C) ,Urologist,Dr. Abdul Ghaffar,2,"MBBS, FCPS (Urology)",615,96%
+D&C (diagnostic / Therapeutic) ,Urologist,Dr. Sajjad Ali Shah,1,"MBBS, FCPS (Urology)",51,100%
+Excision Of Hemangioma Minor (< 10cm),Vascular Surgeon,Asst. Prof. Dr. Syed Muhammad Hammad Alam,1,"MBBS , MS (Master of Vascular Surgery), FCPS (Surgery) , MCPS (Surgery)",62,97%
+Release Of Thoracic Outlet Syndrome With Rib Resection,Vascular Surgeon,Asst. Prof. Dr. Syed Muhammad Hammad Alam,1,"MBBS , MS (Master of Vascular Surgery), FCPS (Surgery) , MCPS (Surgery)",62,97%
+Thrombectomy / Embolectomy By Fogarty Catheter (Brachial/ Femoral),Vascular Surgeon,Asst. Prof. Dr. Syed Muhammad Hammad Alam,1,"MBBS , MS (Master of Vascular Surgery), FCPS (Surgery) , MCPS (Surgery)",62,97%
+Excision Of Hemangioma Major (> 10cm),Vascular Surgeon,Asst. Prof. Dr. Syed Muhammad Hammad Alam,1,"MBBS , MS (Master of Vascular Surgery), FCPS (Surgery) , MCPS (Surgery)",62,97%
+Femoral Endarterectomy,Vascular Surgeon,Asst. Prof. Dr. Syed Muhammad Hammad Alam,1,"MBBS , MS (Master of Vascular Surgery), FCPS (Surgery) , MCPS (Surgery)",62,97%
+Excision Of Arteriovenous Malformation / Fistulous Connection,Vascular Surgeon,Asst. Prof. Dr. Syed Muhammad Hammad Alam,1,"MBBS , MS (Master of Vascular Surgery), FCPS (Surgery) , MCPS (Surgery)",62,97%
+Amputation Above Knee,Vascular Surgeon,Asst. Prof. Dr. Syed Muhammad Hammad Alam,1,"MBBS , MS (Master of Vascular Surgery), FCPS (Surgery) , MCPS (Surgery)",62,97%
+Excision Of Hemangioma Minor (< 10cm),Vascular Surgeon,Asst. Prof. Dr. Syed Muhammad Hammad Alam,1,"MBBS , MS (Master of Vascular Surgery), FCPS (Surgery) , MCPS (Surgery)",62,97%
+Excision Of Arteriovenous Malformation / Fistulous Connection,Vascular Surgeon,Asst. Prof. Dr. Syed Muhammad Hammad Alam,1,"MBBS , MS (Master of Vascular Surgery), FCPS (Surgery) , MCPS (Surgery)",62,97%
+Amputation Below Knee,Vascular Surgeon,Asst. Prof. Dr. Syed Muhammad Hammad Alam,1,"MBBS , MS (Master of Vascular Surgery), FCPS (Surgery) , MCPS (Surgery)",62,97%
+Amputation Below Elbow,Vascular Surgeon,Asst. Prof. Dr. Syed Muhammad Hammad Alam,1,"MBBS , MS (Master of Vascular Surgery), FCPS (Surgery) , MCPS (Surgery)",62,97%
+Amputation Above Elbow,Vascular Surgeon,Asst. Prof. Dr. Syed Muhammad Hammad Alam,1,"MBBS , MS (Master of Vascular Surgery), FCPS (Surgery) , MCPS (Surgery)",62,97%
+Resection /Repair Of Aneurysm ( Extra-Abdominal),Vascular Surgeon,Asst. Prof. Dr. Syed Muhammad Hammad Alam,1,"MBBS , MS (Master of Vascular Surgery), FCPS (Surgery) , MCPS (Surgery)",62,97%
+Resection /Repair Of Pseudo-Aneurysm ( Extra-Abdominal),Vascular Surgeon,Asst. Prof. Dr. Syed Muhammad Hammad Alam,1,"MBBS , MS (Master of Vascular Surgery), FCPS (Surgery) , MCPS (Surgery)",62,97%
+Varicose Vein Surgery (Ligation Of Sapheno-Femoral Junction +stripping Of GSV+ Perforators Ligation) – Unilateral/Single Leg,Vascular Surgeon,Asst. Prof. Dr. Syed Muhammad Hammad Alam,1,"MBBS , MS (Master of Vascular Surgery), FCPS (Surgery) , MCPS (Surgery)",62,97%
+Carotid Endarterectomy,Vascular Surgeon,Asst. Prof. Dr. Syed Muhammad Hammad Alam,1,"MBBS , MS (Master of Vascular Surgery), FCPS (Surgery) , MCPS (Surgery)",62,97%
+Varicose Vein Surgery (Ligation Of Sapheno-Femoral Junction +stripping Of GSV+ Perforators Ligation) – Unilateral/Single Leg,Vascular Surgeon,Asst. Prof. Dr. Syed Muhammad Hammad Alam,1,"MBBS , MS (Master of Vascular Surgery), FCPS (Surgery) , MCPS (Surgery)",62,97%
+Varicose Vein Surgery (Perforators Ligation + Stab Avulsion Only) – Unilateral/Single Leg,Vascular Surgeon,Asst. Prof. Dr. Syed Muhammad Hammad Alam,1,"MBBS , MS (Master of Vascular Surgery), FCPS (Surgery) , MCPS (Surgery)",62,97%
+Carotid Body Tumor Excision,Vascular Surgeon,Asst. Prof. Dr. Syed Muhammad Hammad Alam,1,"MBBS , MS (Master of Vascular Surgery), FCPS (Surgery) , MCPS (Surgery)",62,97%
+Excision Of Hemangioma Major (> 10cm),Vascular Surgeon,Asst. Prof. Dr. Syed Muhammad Hammad Alam,1,"MBBS , MS (Master of Vascular Surgery), FCPS (Surgery) , MCPS (Surgery)",62,97%
+Femoro-Femoral Crossover Bypass,Vascular Surgeon,Asst. Prof. Dr. Syed Muhammad Hammad Alam,1,"MBBS , MS (Master of Vascular Surgery), FCPS (Surgery) , MCPS (Surgery)",62,97%
+Primary Repair Of Peripheral (Extra-Abdominal) Vessel (Artery/Vein),Vascular Surgeon,Asst. Prof. Dr. Syed Muhammad Hammad Alam,1,"MBBS , MS (Master of Vascular Surgery), FCPS (Surgery) , MCPS (Surgery)",62,97%
+Femoro-Popliteal Bypass,Vascular Surgeon,Asst. Prof. Dr. Syed Muhammad Hammad Alam,1,"MBBS , MS (Master of Vascular Surgery), FCPS (Surgery) , MCPS (Surgery)",62,97%
+Primary Repair Of Peripheral (Extra-Abdominal) Vessel (Artery/Vein),Vascular Surgeon,Asst. Prof. Dr. Syed Muhammad Hammad Alam,1,"MBBS , MS (Master of Vascular Surgery), FCPS (Surgery) , MCPS (Surgery)",62,97%
+Release Of Carpal Tunnel Syndrome (under Local Anesthesia),Vascular Surgeon,Asst. Prof. Dr. Syed Muhammad Hammad Alam,1,"MBBS , MS (Master of Vascular Surgery), FCPS (Surgery) , MCPS (Surgery)",62,97%
+Repair Of Intra-Abdominal Vessel (Artery/Vein) With Graft,Vascular Surgeon,Asst. Prof. Dr. Syed Muhammad Hammad Alam,1,"MBBS , MS (Master of Vascular Surgery), FCPS (Surgery) , MCPS (Surgery)",62,97%
+Endovascular Aneurysm Repair (EVAR),Vascular Surgeon,Asst. Prof. Dr. Syed Muhammad Hammad Alam,1,"MBBS , MS (Master of Vascular Surgery), FCPS (Surgery) , MCPS (Surgery)",62,97%
+Temporal Artery Biopsy Under L/A,Vascular Surgeon,Asst. Prof. Dr. Syed Muhammad Hammad Alam,2,"MBBS , MS (Master of Vascular Surgery), FCPS (Surgery) , MCPS (Surgery)",62,97%
+Amputation Mid Foot,Vascular Surgeon,Asst. Prof. Dr. Syed Muhammad Hammad Alam,1,"MBBS , MS (Master of Vascular Surgery), FCPS (Surgery) , MCPS (Surgery)",62,97%
+Amputation Of Toes/ Fingers/ Ray,Vascular Surgeon,Asst. Prof. Dr. Syed Muhammad Hammad Alam,1,"MBBS , MS (Master of Vascular Surgery), FCPS (Surgery) , MCPS (Surgery)",62,97%
+Harvesting Venous Graft Major (> 10 Cm),Vascular Surgeon,Asst. Prof. Dr. Syed Muhammad Hammad Alam,1,"MBBS , MS (Master of Vascular Surgery), FCPS (Surgery) , MCPS (Surgery)",62,97%
+Repair Of Peripheral (Extra-Abdominal) Vessel (Artery/Vein)with Graft,Vascular Surgeon,Asst. Prof. Dr. Syed Muhammad Hammad Alam,1,"MBBS , MS (Master of Vascular Surgery), FCPS (Surgery) , MCPS (Surgery)",62,97%
+Femoro-Distal/Pedal Bypass,Vascular Surgeon,Asst. Prof. Dr. Syed Muhammad Hammad Alam,1,"MBBS , MS (Master of Vascular Surgery), FCPS (Surgery) , MCPS (Surgery)",62,97%
+Release Of Carpal Tunnel Syndrome (under Local Anesthesia),Vascular Surgeon,Asst. Prof. Dr. Syed Muhammad Hammad Alam,1,"MBBS , MS (Master of Vascular Surgery), FCPS (Surgery) , MCPS (Surgery)",62,97%
+Harvesting Venous Graft Minor (< 10 Cm),Vascular Surgeon,Asst. Prof. Dr. Syed Muhammad Hammad Alam,1,"MBBS , MS (Master of Vascular Surgery), FCPS (Surgery) , MCPS (Surgery)",62,97%
+Repair Of Peripheral (Extra-Abdominal) Vessel (Artery/Vein)with Graft,Vascular Surgeon,Asst. Prof. Dr. Syed Muhammad Hammad Alam,1,"MBBS , MS (Master of Vascular Surgery), FCPS (Surgery) , MCPS (Surgery)",62,97%
+Primary Repair Of Peripheral (Extra-Abdominal) Vessel (Artery/Vein),Vascular Surgeon,Asst. Prof. Dr. Syed Muhammad Hammad Alam,1,"MBBS , MS (Master of Vascular Surgery), FCPS (Surgery) , MCPS (Surgery)",62,97%
+Release Of Carpal Tunnel Syndrome (under Local Anesthesia),Vascular Surgeon,Asst. Prof. Dr. Syed Muhammad Hammad Alam,1,"MBBS , MS (Master of Vascular Surgery), FCPS (Surgery) , MCPS (Surgery)",62,97%
+Repair Of Intra-Abdominal Vessel (Artery/Vein) With Graft,Vascular Surgeon,Asst. Prof. Dr. Syed Muhammad Hammad Alam,1,"MBBS , MS (Master of Vascular Surgery), FCPS (Surgery) , MCPS (Surgery)",62,97%
+Primary Repair Of Intra-Abdominal Vessel (Artery/Vein),Vascular Surgeon,Asst. Prof. Dr. Syed Muhammad Hammad Alam,1,"MBBS , MS (Master of Vascular Surgery), FCPS (Surgery) , MCPS (Surgery)",62,97%
+Abdominal Aortic Aneurysm Repair,Vascular Surgeon,Asst. Prof. Dr. Syed Muhammad Hammad Alam,1,"MBBS , MS (Master of Vascular Surgery), FCPS (Surgery) , MCPS (Surgery)",62,97%
+Aorto Bi-Femoral Bypass,Vascular Surgeon,Asst. Prof. Dr. Syed Muhammad Hammad Alam,1,"MBBS , MS (Master of Vascular Surgery), FCPS (Surgery) , MCPS (Surgery)",62,97%
+Axillo-Femoral Bypass,Vascular Surgeon,Asst. Prof. Dr. Syed Muhammad Hammad Alam,1,"MBBS , MS (Master of Vascular Surgery), FCPS (Surgery) , MCPS (Surgery)",62,97%
+Repair Of Intra-Abdominal Vessel (Artery/Vein) With Graft,Vascular Surgeon,Asst. Prof. Dr. Syed Muhammad Hammad Alam,1,"MBBS , MS (Master of Vascular Surgery), FCPS (Surgery) , MCPS (Surgery)",62,97%
+Harvesting Venous Graft Minor (< 10 Cm),Vascular Surgeon,Asst. Prof. Dr. Syed Muhammad Hammad Alam,1,"MBBS , MS (Master of Vascular Surgery), FCPS (Surgery) , MCPS (Surgery)",62,97%
