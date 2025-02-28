@@ -9,7 +9,7 @@ from sklearn.metrics.pairwise import sigmoid_kernel
 import streamlit as st
 from sklearn.preprocessing import StandardScaler, LabelEncoder
 from sklearn.neighbors import NearestNeighbors
-import streamlit.components.v1 as components  # Added for Kommunicate integration
+import streamlit.components.v1 as components  # For embedding the chatbot
 
 # ---------------------- Original Code (No Changes) ----------------------
 disease_predict_df = pd.read_csv('Original_Dataset.csv')
@@ -313,3 +313,14 @@ kommunicate_script = """
 </script>
 """
 components.html(kommunicate_script, height=0, width=0)
+
+# Custom CSS to shift the widget to the left
+st.markdown("""
+<style>
+    .kommunicate-launcher,
+    .kommunicate-widget-container {
+        left: 20px !important;
+        right: auto !important;
+    }
+</style>
+""", unsafe_allow_html=True)
