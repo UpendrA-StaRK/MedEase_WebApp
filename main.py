@@ -9,15 +9,16 @@ from sklearn.metrics.pairwise import sigmoid_kernel
 import streamlit as st
 from sklearn.preprocessing import StandardScaler, LabelEncoder
 from sklearn.neighbors import NearestNeighbors
+import streamlit.components.v1 as components  # Added for Kommunicate integration
 
 # ---------------------- Original Code (No Changes) ----------------------
-disease_predict_df=pd.read_csv('Original_Dataset.csv')
-disease_predict_df.fillna(0,inplace=True)
-column_values =disease_predict_df[['Symptom_1', 'Symptom_2', 'Symptom_3', 'Symptom_4','Symptom_5', 'Symptom_6', 'Symptom_7', 'Symptom_8', 'Symptom_9','Symptom_10', 'Symptom_11', 'Symptom_12', 'Symptom_13', 'Symptom_14','Symptom_15', 'Symptom_16', 'Symptom_17']].values.ravel()
+disease_predict_df = pd.read_csv('Original_Dataset.csv')
+disease_predict_df.fillna(0, inplace=True)
+column_values = disease_predict_df[['Symptom_1', 'Symptom_2', 'Symptom_3', 'Symptom_4', 'Symptom_5', 'Symptom_6', 'Symptom_7', 'Symptom_8', 'Symptom_9', 'Symptom_10', 'Symptom_11', 'Symptom_12', 'Symptom_13', 'Symptom_14', 'Symptom_15', 'Symptom_16', 'Symptom_17']].values.ravel()
 symps = pd.unique(column_values).tolist()
 symp = [i for i in symps if str(i) != "0"]
 disease_symptom_df = pd.DataFrame(columns=['Disease'] + symp)
-disease_symptom_df['Disease']=disease_predict_df['Disease']
+disease_symptom_df['Disease'] = disease_predict_df['Disease']
 disease_predict_df["symptoms"] = [[] for _ in range(len(disease_predict_df))]
 for i in range(len(disease_predict_df)):
     row_values = disease_predict_df.iloc[i].values.tolist()
@@ -26,7 +27,7 @@ for i in range(len(disease_predict_df)):
     else:
         symptoms_list = row_values[1:]
     disease_predict_df.at[i, "symptoms"] = symptoms_list
-symptoms_series = pd.Series(disease_predict_df["symptoms"] )
+symptoms_series = pd.Series(disease_predict_df["symptoms"])
 disease_symptom_df.iloc[:, 1:] = 0
 for i in range(len(disease_symptom_df)):
     symptoms = symptoms_series.iloc[i]
@@ -59,15 +60,15 @@ comparison_df = pd.DataFrame({
 })
 accuracy = accuracy_score(y_test, y_pred)
 
-doctors=pd.read_csv('SurgerySpecialist.csv')
-specialist_count=pd.read_csv('medical_specialist_counts.csv')
+doctors = pd.read_csv('SurgerySpecialist.csv')
+specialist_count = pd.read_csv('medical_specialist_counts.csv')
 unique_surgery_types = doctors['SURGERY TYPE'].unique()
 def normalize(s):
     return s.strip().lower()
 normalized_surgery_set = set(normalize(s) for s in unique_surgery_types)
 normalized_dict_set = set(normalize(s) for s in dictionary.values())
 matching_specialists = normalized_surgery_set.intersection(normalized_dict_set)
-Unique_Disease=doctors['Medical Intervention'].unique()
+Unique_Disease = doctors['Medical Intervention'].unique()
 def normalize(s):
     return s.strip().lower()
 normalized_surgery_set = set(normalize(s) for s in Unique_Disease)
@@ -75,17 +76,17 @@ normalized_dict_set = set(normalize(s) for s in dictionary.keys())
 matching_specialists = normalized_surgery_set.intersection(normalized_dict_set)
 specific_values = ['Dermatologist', 'Gynecologist', 'Gastroenterologist', 'Cardiologist']
 filtered_df = doctors[doctors['SURGERY TYPE'].isin(specific_values)]
-doctors=filtered_df
-final_df=doctors
+doctors = filtered_df
+final_df = doctors
 final_df['Medical Intervention'] = final_df['Medical Intervention'].fillna('')
-final_df=final_df.dropna(axis=0)
-tfv = TfidfVectorizer(min_df=3, max_features=None, strip_accents='unicode', analyzer='word', token_pattern=r'\w{1,}',ngram_range=(1, 3), stop_words='english')
+final_df = final_df.dropna(axis=0)
+tfv = TfidfVectorizer(min_df=3, max_features=None, strip_accents='unicode', analyzer='word', token_pattern=r'\w{1,}', ngram_range=(1, 3), stop_words='english')
 tfv_matrix = tfv.fit_transform(final_df['SURGERY TYPE'])
 sig = sigmoid_kernel(tfv_matrix, tfv_matrix)
 indices = pd.Series(final_df.index, index=final_df['SURGERY TYPE']).drop_duplicates()
 def model1(surgery, sig=sig):
     idx = indices[surgery]
-    return list(dict.fromkeys(final_df[final_df['SURGERY TYPE']==surgery]['Name']))[:10]
+    return list(dict.fromkeys(final_df[final_df['SURGERY TYPE'] == surgery]['Name']))[:10]
 le_surgery = LabelEncoder()
 final_df['SURGERY TYPE Encoded'] = le_surgery.fit_transform(final_df['SURGERY TYPE'])
 final_df['QUALIFICATIONS Encoded'] = final_df['QUALIFICATIONS'].astype('category').cat.codes
@@ -290,3 +291,25 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
+
+# ---------------------- Kommunicate Chatbot Integration ----------------------
+kommunicate_script = """
+<script type="text/javascript">
+    (function(d, m){
+        var kommunicateSettings = {
+            "appId": "btech-r9w2x",
+            "automaticChatOpenOnNavigation": true,
+            "popupWidget": true
+        };
+        var s = document.createElement("script");
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://widget.kommunicate.io/v2/kommunicate.app";
+        var h = document.getElementsByTagName("head")[0];
+        h.appendChild(s);
+        window.kommunicate = m;
+        m._globals = kommunicateSettings;
+    })(document, window.kommunicate || {});
+</script>
+"""
+components.html(kommunicate_script, height=0, width=0)
