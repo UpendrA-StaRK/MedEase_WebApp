@@ -268,11 +268,14 @@ if analyze_btn:
 
 # Footer
 st.markdown("""
-<div class="glass-container" style="margin-top: 30px">
-    📢 Note: This AI system provides preliminary health insights and should not replace professional medical advice. 
-    Always consult a certified healthcare provider for diagnosis and treatment.
-</div>
+<style>
+.bottom-text {
+    text-align: left !important;
+}
+</style>
+<div class="bottom-text">🚀 Crafted by Upendra, Driven by Machine Learning 🤖</div>
 """, unsafe_allow_html=True)
+
 
 # Bottom text
 st.markdown(
