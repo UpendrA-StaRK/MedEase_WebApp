@@ -287,7 +287,7 @@ st.markdown(
             font-weight: bold;
         }
     </style>
-    <div class="bottom-text">🚀 Crafted by Upendra, Driven by Machine Learning 🤖</div>
+    <<div class="bottom-text" style="text-align: left;">🚀 Crafted by Upendra, Driven by Machine Learning 🤖</div>
     """,
     unsafe_allow_html=True
 )
